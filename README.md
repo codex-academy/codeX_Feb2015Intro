@@ -63,19 +63,23 @@ A bug in software development refers to a problem, if a program have bugs it mea
 * Developer Tools
 * Javascript Console
 
-To access them click on the three lines, right of the address bar, then click 'More tools', 'Developer Tools' and 'Javascript Console' is two of the options that should be available.
+To access them:
 
-
-
-### Javascript on the command line
-
-So far all the Javascript that you did was running inside of the web browser, by using node js, or node just for short you can run javascript programs from the terminal, without the need for a web browser. Clicking either one of then will appear at the bottom of the screen in Chrome. This will allow you to access various elements of your web pages.
-
-It allows you to do the following:
+* click on the three lines, right of the address bar
+* then click 'More tools' 
+* 'Developer Tools' and 'Javascript Console' is two of the options that should be available.
+* by clicking either one of them a screen will appear at the bottom of the screen in Chrome. 
+ 
+This will allow you to do various usefull things such as:
+* Identify HTML Elements by clicking in the browser
 * See which CSS tags are affecting a specific element
 * Switch of the CSS styling at affects the selected element
 * Look at the Javascript source code used by your web page
 * Add a breakpoint in Javascript sourcecode
+
+### Javascript on the command line
+
+So far all the Javascript that you wrote was running inside of the web browser, by using node js, or node just for short, you can run javascript programs from the terminal, without the need for a web browser. This allows you to use Javsscript to write some programs that does not depend on the web browser such as accessing data in a database for example.
 
 
 
