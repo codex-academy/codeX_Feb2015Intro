@@ -40,3 +40,22 @@ Introduce ```apt-get```
 * Sublime Text
 * Eclipse
 
+## Let's in the wild
+
+### HTML
+
+Now we are going to do some HTML outside of Codecademy
+* Create a file called
+* Step 1
+* Step 2
+* Step 3
+
+### Javascript
+
+
+## Javascript on the command line
+
+
+
+
+
