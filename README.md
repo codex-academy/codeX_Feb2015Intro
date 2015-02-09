@@ -14,6 +14,8 @@ So now you know that you are not alone let's get going.
 
 ## Overview
 
+### Register
+
 So we would like you to register online on a few online tools and communities that we will be using at codeX. 
 
 You will register on there and also give you a quick intro on how to use these tools.
@@ -23,7 +25,18 @@ So quickly go and register at:
 * http://stackoverflow.com
 * http://twitter.com
 
+## The command line
 
+Introduce the ```command line```
 
+## Install these software
 
+Introduce ```apt-get```
+
+* git
+
+## Download the following set of tools
+
+* Sublime Text
+* Eclipse
 
