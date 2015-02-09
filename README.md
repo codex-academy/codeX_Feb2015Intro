@@ -40,7 +40,7 @@ Introduce ```apt-get```
 * Sublime Text
 * Eclipse
 
-## Let's in the wild
+## Let's code
 
 ### HTML
 
@@ -52,8 +52,17 @@ Now we are going to do some HTML outside of Codecademy
 
 ### Javascript
 
+Now let's add some behaviour to the web page above...
 
-## Javascript on the command line
+
+### Debugging
+
+A bug in software development refers to a problem, if a program have bugs it means that it have some issues that stop it from working or that makes it work not as good as it could. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser come with some tools that goes a long way in assisting one in finding problems in ones program.
+
+
+### Javascript on the command line
+
+So far all the Javascript that you did was running inside of the web browser, by using node js, or node just for short you can run javascript programs from the terminal, without the need for a web browser.
 
 
 
