@@ -59,10 +59,24 @@ Now let's add some behaviour to the web page above...
 
 A bug in software development refers to a problem, if a program have bugs it means that it have some issues that stop it from working or that makes it work not as good as it could. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser come with some tools that goes a long way in assisting one in finding problems in ones program.
 
+####The Chrome developer tools include:
+* Developer Tools
+* Javascript Console
+
+To access them click on the three lines, right of the address bar, then click 'More tools', 'Developer Tools' and 'Javascript Console' is two of the options that should be available.
+
+
 
 ### Javascript on the command line
 
-So far all the Javascript that you did was running inside of the web browser, by using node js, or node just for short you can run javascript programs from the terminal, without the need for a web browser.
+So far all the Javascript that you did was running inside of the web browser, by using node js, or node just for short you can run javascript programs from the terminal, without the need for a web browser. Clicking either one of then will appear at the bottom of the screen in Chrome. This will allow you to access various elements of your web pages.
+
+It allows you to do the following:
+* See which CSS tags are affecting a specific element
+* Switch of the CSS styling at affects the selected element
+* Look at the Javascript source code used by your web page
+* Add a breakpoint in Javascript sourcecode
+
 
 
 
