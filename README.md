@@ -167,7 +167,7 @@ In a file called task2.html create a html page:
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
 * ```git add .``` to add everything to git
-* ```git commit -m "task 1 is done"``` to commit your changes to git
+* ```git commit -m "task 2 is done"``` to commit your changes to git
 
 #### Task 3
 
@@ -175,7 +175,7 @@ In a file called task3.html create a html page:
 
 * that display a white square that is 300px by 300px with a black border that is 5px thick
 * add two buttons under the square one with text 'Make green' the other with 'Make red' 
-* * when the respective buttons are pressed they should make the square their respective colors.
+* when the respective buttons are pressed they should make the square their respective colors.
 
 Once done add your changes to git by using the same commands as you used for the tasks above
 
@@ -193,9 +193,6 @@ In a file called task4.html create a html page:
 * this process should be repeated over and over
 
 Once done add your changes to git by using the same commands you used above.
-
-
-
 
 ### Javascript on the command line
 
