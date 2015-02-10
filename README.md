@@ -155,7 +155,7 @@ Once you are done add your changes to git by using these commands:
 * ```git add .``` to add everything to git
 * ```git commit -m "task 1 is done"``` to commit your changes to git
 
-### Task 2
+#### Task 2
 
 In a file called task2.html create a html page:
 * That display two white squares that is 300px by 300px with a black border that is 5px thick.
@@ -169,7 +169,7 @@ Once you are done add your changes to git by using these commands:
 * ```git add .``` to add everything to git
 * ```git commit -m "task 1 is done"``` to commit your changes to git
 
-### Task 3
+#### Task 3
 
 In a file called task3.html create a html page:
 
@@ -179,7 +179,7 @@ In a file called task3.html create a html page:
 
 Once done add your changes to git by using the same commands as you used for the tasks above
 
-### Task 4
+#### Task 4
 
 In a file called task4.html create a html page:
 
