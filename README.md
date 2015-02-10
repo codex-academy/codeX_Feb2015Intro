@@ -147,10 +147,10 @@ In your projects folder:
 
 #### Task 1
 
+> This task only requires some HTML & CSS
+
 In a file called task1.html create two squares that is 300px by 300px with a black border that is 5px thick.
 The first square should be green and the second square should be red.
-
-> This task only requires some HTML & CSS
 
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
@@ -158,6 +158,8 @@ Once you are done add your changes to git by using these commands:
 * ```git commit -m "task 1 is done"``` to commit your changes to git
 
 #### Task 2
+
+> This task only requires some HTML, CSS & Javascript
 
 In a file called task2.html create a html page:
 * That display two white squares that is 300px by 300px with a black border that is 5px thick.
@@ -175,6 +177,7 @@ In a file called task2.html create a html page:
 > DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
+
  Concept          |   Code snippet     | Link
 ------------------|--------------------|-----------------
 Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
@@ -189,6 +192,8 @@ Once you are done add your changes to git by using these commands:
 
 #### Task 3
 
+This task only requires some HTML, CSS & Javascript
+
 In a file called task3.html create a html page:
 
 * that display a white square that is 300px by 300px with a black border that is 5px thick
@@ -198,6 +203,8 @@ In a file called task3.html create a html page:
 Once done add your changes to git by using the same commands as you used for the tasks above
 
 #### Task 4
+
+This task only requires some HTML, CSS & Javascript
 
 In a file called task4.html create a html page:
 
