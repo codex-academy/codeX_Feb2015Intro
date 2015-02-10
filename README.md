@@ -60,11 +60,13 @@ If you type ```apt-get```....
 
 Now let we install some software that we will need using the ```apt-get install command```:
 
-* apt-get install git
-* apt-get install nodejs-legacy
-* apt-get install npm
+* ```apt-get install git```
+* ```apt-get install nodejs-legacy```
+* ```apt-get install npm```
 
-## Download the following set of tools
+## Install these programs:
+
+There will be a flash drive avialable so that you don't need to download these programs.
 
 * Sublime Text
 * Eclipse
@@ -77,13 +79,13 @@ The version control software we will be using is called ```git``` and to publish
 
 To get a quick introduction to github do the online tutorial at: https://try.github.io
 
-Now that you have a better idea of what git is all about try it on you local machine by following the instructions that are here: https://github.com/jlord/git-it
+Once you have a better idea of what git is all about try it on you local machine by following the instructions that are here: https://github.com/jlord/git-it
 
-Now you should no alot more about version control using, git. Should you ever have any questions you can refer back to the resources above and the usefull guide at: http://jlord.us/git-it/
+Now you should no alot more about version control using, git. Should you ever have any questions you can refer back to the resources above and the usefull guide at: http://jlord.us/git-it/ or there is always google.
 
 ## Let's code
 
-So far most of the code you might have been written inside of Codecademy, that is a about to change. It reality most software is wriiten in text editors or a more adanced text editors called and Integrated Development Environment or IDE for short. We will use a text editor called, Sublime Text and later you will be introduced to an IDE called Eclipse.
+So far most of the code you might have been written inside of Codecademy, that is a about to change. It reality most software is written in text editors or a more adanced text editors called and Integrated Development Environment or IDE for short. We will use a text editor called, Sublime Text and later you will be introduced to an IDE called Eclipse.
 
 ### Debugging
 
@@ -109,6 +111,8 @@ This will allow you to do various usefull things such as:
 * Look at the Javascript source code used by your web page
 * Add a breakpoint in Javascript sourcecode
 
+This is just to mention a few of the things you can do in Google Developer tools. Other browsers have similar capabilities, but some times you need to install a browser plugin. In Firefox you can install the excellent Firebug plugin to get developer support. 
+
 ### Sublime Text
 
 Sublime Text editor is a text editor with lots of nice features that makes your life as a developer much easier.
@@ -131,17 +135,66 @@ Let's try some things:
 * What happened?
 * In the body of the tag you just created type 'Hello World!'
 
-### HTML
+### Write some code!
 
-Now we are going to do some HTML outside of Codecademy
-* Create a file called
-* Step 1
-* Step 2
-* Step 3
+Now we are going to write some code outside of Codecademy.
 
-### Javascript
+In your projects folder:
+* create a folder called RedAndGreen
+* initialize it as a git repository by doing ```git init```
+* create all the files below in that folder
+* after each task remember to add your changes to git
 
-Now let's add some behaviour to the web page above...
+#### Task 1
+
+In a file called task1.html create two squares that is 300px by 300px with a black border that is 5px thick.
+The first square should be green and the second square should be red.
+
+Once you are done add your changes to git by using these commands:
+* ```git status``` to see what changed
+* ```git add .``` to add everything to git
+* ```git commit -m "task 1 is done"``` to commit your changes to git
+
+### Task 2
+
+In a file called task2.html create a html page:
+* That display two white squares that is 300px by 300px with a black border that is 5px thick.
+* create a button underneath each square. 
+* the button text under the first square should be 'Make green' and 'Make red' under the second square. 
+* when the button under the first square is pressed it should make the  first square green. 
+* when the button under the 2nd square is pressed the 2nd square it should make the button green.
+
+Once you are done add your changes to git by using these commands:
+* ```git status``` to see what changed
+* ```git add .``` to add everything to git
+* ```git commit -m "task 1 is done"``` to commit your changes to git
+
+### Task 3
+
+In a file called task3.html create a html page:
+
+* that display a white square that is 300px by 300px with a black border that is 5px thick
+* add two buttons under the square one with text 'Make green' the other with 'Make red' 
+* * when the respective buttons are pressed they should make the square their respective colors.
+
+Once done add your changes to git by using the same commands as you used for the tasks above
+
+### Task 4
+
+In a file called task4.html create a html page:
+
+* that displays a green square that is 300px by 300px with a black border that is 5px thick.
+* add one button under the square one with text 'Make red' 
+* when the buttons is pressed the square should go red
+* the button text should change to 'Make green'
+* when pressed the square should go green
+* only for the button text to change to 'Make red'
+* upon which pressed the square goes red
+* this process should be repeated over and over
+
+Once done add your changes to git by using the same commands you used above.
+
+
 
 
 ### Javascript on the command line
