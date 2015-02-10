@@ -47,8 +47,9 @@ Let's try out the terminal window, open a terminal window and let's try out a fe
 
 Congratulations you are now well on your way on mastering the command line.
 
-Make a start on linuxsurvival.com, before you proceed complete the first two lessons. Complete the rest in your own time this will help you alot to master the command line.
+Now hop over http://linuxsurvival.com, and complete the first Modules 1 & 2. 
 
+Complete Module 3 & 4 in your own time later, this will help you along even further to deepen your knowledge of the command line.
 
 ## Install these software
 
@@ -175,8 +176,6 @@ The first square should be green and the second square should be red. Be sure th
 </html>
 ```
 
-
-
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
 * ```git add .``` to add everything to git
@@ -211,6 +210,28 @@ In a file called task2.html create a html page:
 * the button text under the first square should be 'Make green' and 'Make red' under the second square. 
 * when the button under the first square is pressed it should make the  first square green. 
 * when the button under the 2nd square is pressed the 2nd square it should make the button green.
+
+**The HTML should look look something like this**
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>header!</title>
+	
+	<link rel="stylesheet" type="text/css" href="">
+	<style type="text/css">
+	<!-- CSS goes here -->
+	</style>
+
+</head>
+<body>
+	<!-- HTML goes here -->
+	<script type="text/javascript">
+		//javascript code goes here at the bottom to ensure the DOM is loaded...
+	</script>
+</body>
+</html>
+```
 
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
