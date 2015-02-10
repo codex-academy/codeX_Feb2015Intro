@@ -166,9 +166,13 @@ In a file called task2.html create a html page:
 * when the button under the first square is pressed it should make the  first square green. 
 * when the button under the 2nd square is pressed the 2nd square it should make the button green.
 
-> This task will require some HTML, CSS & Javascript - you will need to add some button handlers using Javascript 
-> and you will need to manipulate the CSS styling using Browser DOM from the browser.
-> The DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
+> This task will require to use:
+> * HTML & CSS
+> * Javascript
+> * add some button handlers using Javascript 
+> * manipulate the CSS styling using the browser DOM
+
+> DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
  Concept          |   Code snippet     | Link
