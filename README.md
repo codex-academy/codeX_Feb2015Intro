@@ -165,6 +165,7 @@ Once you are done add your changes to git by using these commands:
 * add some button click event handlers using Javascript 
 * manipulate the CSS styling using the browser DOM
 
+**The DOM**
 > DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
