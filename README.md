@@ -161,9 +161,8 @@ Once you are done add your changes to git by using these commands:
 
 > This task requires HTML, CSS & Javascript
 
+
 > This task will require to use:
-> * HTML & CSS
-> * Javascript
 > * add some button handlers using Javascript 
 > * manipulate the CSS styling using the browser DOM
 
