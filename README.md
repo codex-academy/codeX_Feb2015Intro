@@ -174,8 +174,9 @@ In a file called task2.html create a html page:
  Concept |Code snippet| Link
 ---------|------------|-----------
 Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
-Finding DOM element - like a DIV element based on a ID name | ```document.getElementById``` |  http://www.w3schools.com/js/js_htmldom_elements.asp
-Styling elements from Javascript | |http://www.w3schools.com/jsref/dom_obj_style.asp
+Finding DOM element - like a DIV element based on a ID name | ```var element = document.getElementById('id')``` |  http://www.w3schools.com/js/js_htmldom_elements.asp
+Styling elements from Javascript | ```element.style.backgroundColor = 'red';``` | http://www.w3schools.com/jsref/dom_obj_style.asp
+Styling elements from Javascript | ```element.addEventListener('click', function(){});``` | http://www.w3schools.com/jsref/dom_obj_style.asp
 
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
