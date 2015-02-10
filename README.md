@@ -42,22 +42,13 @@ Introduce ```apt-get```
 
 ## Let's code
 
-### HTML
-
-Now we are going to do some HTML outside of Codecademy
-* Create a file called
-* Step 1
-* Step 2
-* Step 3
-
-### Javascript
-
-Now let's add some behaviour to the web page above...
-
+So far most of the code you might have been written inside of Codecademy, that is a about to change. It reality most software is wriiten in text editors or a more adanced text editors called and Integrated Development Environment or IDE for short. We will use a text editor called, Sublime Text and later you will be introduced to an IDE called Eclipse.
 
 ### Debugging
 
-A bug in software development refers to a problem, if a program have bugs it means that it have some issues that stop it from working or that makes it work not as good as it could. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser come with some tools that goes a long way in assisting one in finding problems in ones program.
+As you write software you will make mistakes alot, some times it will be easy to find a problem or bug, some times you will struggle... some times will find it easily. Relax! This is an integral part of programming... It will drive you semi insane, but it is a skill you need to master.
+
+A bug in software development refers to a problem, if a program have a bug it means that it have an issue that stop it from working or that makes it work sub-optimally. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser come with some tools that goes a long way in assisting one in finding problems in ones program.
 
 ####The Chrome developer tools include:
 * Developer Tools
@@ -76,6 +67,41 @@ This will allow you to do various usefull things such as:
 * Switch of the CSS styling at affects the selected element
 * Look at the Javascript source code used by your web page
 * Add a breakpoint in Javascript sourcecode
+
+### Sublime Text
+
+Sublime Text editor is a text editor with lots of nice features that makes your life as a developer much easier.
+
+A few of those features includes:
+* Basic code completion - based on content in your file
+* Syntax highligting
+* Html tag completion
+* Html file basic templates
+
+Let's try some things:
+
+* Create a file called index.html in Sublime text
+* At the first line in the file type ```html```
+* Now press 'tab'
+* What happened?
+* Save the file...
+* Now in the body tag type ```h1```
+* Press press 'tab' again
+* What happened?
+* In the body of the tag you just created type 'Hello World!'
+
+### HTML
+
+Now we are going to do some HTML outside of Codecademy
+* Create a file called
+* Step 1
+* Step 2
+* Step 3
+
+### Javascript
+
+Now let's add some behaviour to the web page above...
+
 
 ### Javascript on the command line
 
