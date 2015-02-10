@@ -161,13 +161,6 @@ Once you are done add your changes to git by using these commands:
 
 > This task only requires some HTML, CSS & Javascript
 
-In a file called task2.html create a html page:
-* That display two white squares that is 300px by 300px with a black border that is 5px thick.
-* create a button underneath each square. 
-* the button text under the first square should be 'Make green' and 'Make red' under the second square. 
-* when the button under the first square is pressed it should make the  first square green. 
-* when the button under the 2nd square is pressed the 2nd square it should make the button green.
-
 > This task will require to use:
 > * HTML & CSS
 > * Javascript
@@ -177,14 +170,20 @@ In a file called task2.html create a html page:
 > DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
-
  Concept          |   Code snippet     | Link
 ------------------|--------------------|-----------------
-What is the DOM   | |http://eloquentjavascript.net/13_dom.html
 Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
 Finding DOM element - like a DIV element based on a ID name | ```var element = document.getElementById('id')``` |  http://www.w3schools.com/js/js_htmldom_elements.asp
 Styling elements from Javascript | ```element.style.backgroundColor = 'red';``` | http://www.w3schools.com/jsref/dom_obj_style.asp
 Styling elements from Javascript | ```element.addEventListener('click', function(){});``` | http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
+What is the DOM?   | |http://eloquentjavascript.net/13_dom.html
+
+In a file called task2.html create a html page:
+* That display two white squares that is 300px by 300px with a black border that is 5px thick.
+* create a button underneath each square. 
+* the button text under the first square should be 'Make green' and 'Make red' under the second square. 
+* when the button under the first square is pressed it should make the  first square green. 
+* when the button under the 2nd square is pressed the 2nd square it should make the button green.
 
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
