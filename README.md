@@ -4,7 +4,7 @@ A big welcome to Project codeX! We hope that you will enjoy this journey with us
 
 ## Assumptions
 
-This introduction assumed that you have completed both the HTML/CSS & Javascript courses in Codecademy, if you haven't yet it's not train smash! Just head over there and complete them before you go any further.
+This introduction assumed that you have completed both the HTML/CRedSS & Javascript courses in Codecademy, if you haven't yet it's not train smash! Just head over there and complete them before you go any further.
 
 ## Now what?
 
@@ -141,7 +141,8 @@ Now we are going to write some code outside of Codecademy.
 
 In your projects folder:
 * create a folder called RedAndGreen
-* initialize it as a git repository by doing ```git init```
+* change into the folder RedAndGreen using ```cd RedAndGreen```
+* initialize it as a git repository using this command ```git init```
 * create all the files below in that folder
 * after each task remember to add your changes to git
 
@@ -150,7 +151,31 @@ In your projects folder:
 > This task requires HTML & CSS
 
 In a file called task1.html create two squares that is 300px by 300px with a black border that is 5px thick.
-The first square should be green and the second square should be red.
+The first square should be green and the second square should be red. Be sure that your HTML file is properly formed, you can use the basic html template from Sublime Text for this as described above.
+
+> For this task create the CSS in a style tag in the head of the html file file
+
+**The HTML should look look something like this**
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>header!</title>
+	
+	<link rel="stylesheet" type="text/css" href="">
+	
+	<style type="text/css">
+	<!-- CSS goes here -->
+	</style>
+</head>
+<body>
+	<!-- HTML goes here -->
+</body>
+</html>
+```
+
+
 
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
