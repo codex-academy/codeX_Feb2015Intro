@@ -147,7 +147,7 @@ In your projects folder:
 
 #### Task 1
 
-> This task only requires some HTML & CSS
+> This task requires HTML & CSS
 
 In a file called task1.html create two squares that is 300px by 300px with a black border that is 5px thick.
 The first square should be green and the second square should be red.
@@ -159,7 +159,7 @@ Once you are done add your changes to git by using these commands:
 
 #### Task 2
 
-> This task only requires some HTML, CSS & Javascript
+> This task requires HTML, CSS & Javascript
 
 > This task will require to use:
 > * HTML & CSS
@@ -192,7 +192,7 @@ Once you are done add your changes to git by using these commands:
 
 #### Task 3
 
-This task only requires some HTML, CSS & Javascript
+> This task requires HTML, CSS & Javascript
 
 In a file called task3.html create a html page:
 
@@ -204,7 +204,7 @@ Once done add your changes to git by using the same commands as you used for the
 
 #### Task 4
 
-This task only requires some HTML, CSS & Javascript
+> This task requires HTML, CSS & Javascript
 
 In a file called task4.html create a html page:
 
@@ -222,9 +222,3 @@ Once done add your changes to git by using the same commands you used above.
 ### Javascript on the command line
 
 So far all the Javascript that you wrote was running inside of the web browser, by using node js, or node just for short, you can run javascript programs from the terminal, without the need for a web browser. This allows you to use Javsscript to write some programs that does not depend on the web browser such as accessing data in a database for example.
-
-
-
-
-
-
