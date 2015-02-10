@@ -161,10 +161,9 @@ Once you are done add your changes to git by using these commands:
 
 > This task requires HTML, CSS & Javascript
 
-
-> This task will require to use:
-> * add some button handlers using Javascript 
-> * manipulate the CSS styling using the browser DOM
+**This task will require you to:**
+* add some button click event handlers using Javascript 
+* manipulate the CSS styling using the browser DOM
 
 > DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
