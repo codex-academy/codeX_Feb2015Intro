@@ -170,12 +170,11 @@ In a file called task2.html create a html page:
 > and you will need to manipulate the CSS styling using Browser DOM from the browser.
 > The DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
-> Basic DOM overview:
-> http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
-> Finding a specific DOM element - like a DIV element based on a ID name:
-> http://www.w3schools.com/js/js_htmldom_elements.asp
-> Styling elements from Javascript:
-> http://www.w3schools.com/jsref/dom_obj_style.asp
+| Concept| Link
+---------|-----------
+Basic DOM overview | http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
+Finding DOM element - like a DIV element based on a ID name |  http://www.w3schools.com/js/js_htmldom_elements.asp
+Styling elements from Javascript | http://www.w3schools.com/jsref/dom_obj_style.asp
 
 Once you are done add your changes to git by using these commands:
 * ```git status``` to see what changed
