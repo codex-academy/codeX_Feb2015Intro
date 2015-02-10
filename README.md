@@ -171,8 +171,8 @@ In a file called task2.html create a html page:
 > The DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
- Concept |Code snippet| Link
----------|------------|-----------
+ Concept          |   Code snippet     | Link
+------------------|--------------------|-----------------
 Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
 Finding DOM element - like a DIV element based on a ID name | ```var element = document.getElementById('id')``` |  http://www.w3schools.com/js/js_htmldom_elements.asp
 Styling elements from Javascript | ```element.style.backgroundColor = 'red';``` | http://www.w3schools.com/jsref/dom_obj_style.asp
