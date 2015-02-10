@@ -16,9 +16,9 @@ So now you know that you are not alone let's get going.
 
 ### Register
 
-So we would like you to register online on a few online tools and communities that we will be using at codeX. 
+So we would like you to register for a few online  that we will be using at codeX. 
 
-You will register on there and also give you a quick intro on how to use these tools.
+Please register on there and familiarise yourself with these tools.
 
 So quickly go and register at:
 * http://www.github.com
@@ -68,6 +68,13 @@ Now let we install some software that we will need using the ```apt-get install 
 
 * Sublime Text
 * Eclipse
+
+
+## Git - Version Control
+
+As a software developer you will be writing your code in files and you will not only be doing that on your own, but with other team members. So you will need some way of keeping track what you have done and what your team mates have done. Have you ever lost your changes in a Word document or text file, because you lots the USB Drive or because you over written some file by accident? These are the kind of things that might start to happen as you start to write code. Luckily there are a categoty of tools called Version Control tools - that allows you to manage the files that you create and change everyday as a software developer. It allows you to manage your own files, but also to share your files and changes to your files with your collegues and even other people on the internet.
+
+The version control software we will be using is called ```git``` and to publish and share your code ```http://github.com```.
 
 ## Let's code
 
