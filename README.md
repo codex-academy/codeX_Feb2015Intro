@@ -170,7 +170,7 @@ Once you are done add your changes to git by using these commands:
 > DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
-** Basic DOM concepts **
+**Basic DOM concepts**
 
  Concept          |   Code snippet     | Link
 ------------------|--------------------|-----------------
