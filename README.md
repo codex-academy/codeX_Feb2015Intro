@@ -287,6 +287,47 @@ Using seperate file fon html, css & javascript called task4.html, task4.css & ta
 
 Once done add your changes to git by using the same commands you used above.
 
+#### Task 5
+
+In all the tasks above we tested our code by running it in the browser and seeing if it worked as it should have.
+I will introduce you now to a better way - you will help the computer to decide if things are working as they should od not. This way of programming is called Test Driven Development and it use a Red & Green coding cycle.
+
+In this Task you need to write a function called, setBackgoundColor it takes two parameters the id of the element who's background color is to be set and then the color it should be set too.
+
+Calling this function looks like this: ```setBackgoundColor('mySquare', 'orage');```
+
+TDD starts like this:
+
+* write some code that use the code that you would like to write
+* run this code
+* everything should fail horribly the code you are calling doesn't exist yet!
+* the state of the test is red
+
+**Ok let's do that quickly:**
+
+Create files called:
+* task5.html
+* two javascript files calles task5.js & task5_tests.js.
+
+The html file should reference the two seperate javascript files. The one Javascript file will contain our function implementation and the other the test code.
+
+The html file should should reference function implementation file before the test file - as the javascript files are loaded from top to bottom
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>header!</title>
+	<link rel="stylesheet" type="text/css" href="task5.css">
+	<script type="text/javascript" src="task5.js"></script>
+	<script type="text/javascript" src="task5_test.js"></script>
+</head>
+<body>
+	<!-- HTML goes here -->
+</body>
+</html>
+```
+
 
 
 ### Javascript on the command line
