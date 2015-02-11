@@ -4,7 +4,11 @@ A big welcome to Project codeX! We hope that you will enjoy this journey with us
 
 ## Assumptions
 
-This introduction assumed that you have completed both the HTML/CRedSS & Javascript courses in Codecademy, if you haven't yet it's not train smash! Just head over there and complete them before you go any further.
+This introduction assumes that you have completed both these courses in Codecademy:
+ * [HTML & CSS](http://www.codecademy.com/en/tracks/web)
+ * [Javascript](http://www.codecademy.com/en/tracks/javascript)
+
+If you haven't completed them yet it's no train smash! Just complete them before you go any further.
 
 ## Now what?
 
