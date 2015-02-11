@@ -337,19 +337,27 @@ The html file should should reference function implementation file before the te
 * now we check that the background of 'mySquare' set to red
 * Use the alert function to display 'success' if the background color of 'mySquare' is equal to green, otherwise display 'failure'
 
-** It should fail now! **
-> Use Chrome developer tools' console to see any errors
+**It should fail now!**
+> Use Chrome developer tools' console to see why it's failing
 
-** In the task5.js file: **
-* now create an implementation for the ```setBackgoundColor``` function
+**In the task5.js file:**
+* create an implementation for the ```setBackgoundColor``` function
+	* remember it takes 2 parameters
+	* first one the element name
+	* second one the color to set the background to
 * refresh the page and see what happens
 * There should be no errors in Use Chrome developer tools'
 * and you should see an alert window displaying 'success'
 
 Congratulations! You just created your first function using TDD!
 
-Just to recap TDD (Test Driven Development) works like this:
-
+***So TDD (Test Driven Development) works like this:***
+* write test code that will fail - it depends on non-existent code 
+* run the test - it should fail
+* write some code that will fix the failing code
+* run the test again - it should work now
+* make your code better if needed, without changing the actual behaviour (google this: code refactoring) 
+* start the process again, by adding a new test...
 
 
 
