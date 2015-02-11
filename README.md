@@ -25,9 +25,11 @@ So quickly go and register at:
 * http://stackoverflow.com
 * http://twitter.com
 
-* [Command line](command_line.md)
+### Tools of the trade
+
+* Master the command line [Command line](command_line.md)
 * [Install these software]()
-* [Get to know Git](know_git.md)
+* Version control with GIT - [Get to know Git](know_git.md)
 
 ## Let's code
 
