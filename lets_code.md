@@ -193,7 +193,8 @@ The html file should should reference function implementation file before the te
 </html>
 ```
 
-** In the task5_tests.js file **
+**In the task5_tests.js file**
+
 * we need to check the current color of the background of the 'mySquare' is green, we can use the DOM to do that
 * now call the ```setBackgoundColor('mySquare', 'red');```
 * now we check that the background of 'mySquare' set to red
