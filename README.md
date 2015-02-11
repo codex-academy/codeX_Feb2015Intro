@@ -24,9 +24,7 @@ So now you know that you are not alone let's get going.
 
 So we would like you to register for a few online  that we will be using at codeX. 
 
-Please register on there and familiarise yourself with these tools.
-
-So quickly go and register at:
+**Please register and familiarise yourself with:**
 * http://www.github.com
 * http://stackoverflow.com
 * http://twitter.com
