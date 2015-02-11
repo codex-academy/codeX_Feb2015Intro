@@ -274,7 +274,7 @@ Once done add your changes to git by using the same commands as you used for the
 
 > This task requires HTML, CSS & Javascript
 
-In a file called task4.html create a html page:
+Using seperate file fon html, css & javascript called task4.html, task4.css & task4.js create a web page:
 
 * that displays a green square that is 300px by 300px with a black border that is 5px thick.
 * add one button under the square one with text 'Make red' 
@@ -286,6 +286,8 @@ In a file called task4.html create a html page:
 * this process should be repeated over and over
 
 Once done add your changes to git by using the same commands you used above.
+
+
 
 ### Javascript on the command line
 
