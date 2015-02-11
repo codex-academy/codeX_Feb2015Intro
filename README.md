@@ -39,10 +39,10 @@ So quickly go and register at:
 
 ## Let's code
 
-So far most of the code you might have been written inside of Codecademy, that is a about to change. It reality most software is written in text editors or a more adanced text editors called and Integrated Development Environment or IDE for short. We will use a text editor called, Sublime Text and later you will be introduced to an IDE called Eclipse.
+So far most of the code you might have written might have been inside of Codecademy, that is a about to change. In reality most software is written in text editors or a more adanced text editors called and Integrated Development Environments or IDE's for short. We will use a text editor called, Sublime Text and later you will be introduced to an IDE called Eclipse.
 
-* [Debugging & Tools](debug_tools.md)
-* [Let's do some coding now] (lets_code.md)
+* Learn how to find problems in you code using [Debugging & Tools](debug_tools.md)
+* Let get going and [do some coding now] (lets_code.md)
 
 ### Javascript on the command line
 
