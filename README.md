@@ -346,7 +346,6 @@ The html file should should reference function implementation file before the te
 	* first one the element name
 	* second one the color to set the background to
 	* the function should set the background of the element specified to the color supplied.
-	
 * refresh the page and see what happens
 * There should be no errors in Use Chrome developer tools'
 * and you should see an alert window displaying 'success'
