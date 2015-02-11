@@ -242,11 +242,31 @@ Once you are done add your changes to git by using these commands:
 
 > This task requires HTML, CSS & Javascript
 
-In a file called task3.html create a html page:
+Create 3 files:
+* task3.html - all html in here	
+* task3.css - all css in here
+* task3.js - all javascript in here
+
+Using the above 3 files create a web page:
 
 * that display a white square that is 300px by 300px with a black border that is 5px thick
 * add two buttons under the square one with text 'Make green' the other with 'Make red' 
 * when the respective buttons are pressed they should make the square their respective colors.
+
+**The html should look like this**
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>header!</title>
+	<link rel="stylesheet" type="text/css" href="task3.css">
+	<script type="text/javascript" src="task3.js"></script>
+</head>
+<body>
+	<!-- HTML goes here -->
+</body>
+</html>
+```
 
 Once done add your changes to git by using the same commands as you used for the tasks above
 
