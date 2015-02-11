@@ -27,8 +27,8 @@ So quickly go and register at:
 
 ### Tools of the trade
 
-* Master the command line [Command line](command_line.md)
-* [Install these software]()
+* Master the command line - [Command line mastery 101](command_line.md)
+* Some software to install - [Install these](software_to_install.md)
 * Version control with GIT - [Get to know Git](know_git.md)
 
 ## Let's code
