@@ -13,9 +13,13 @@ In your projects folder:
 
 In github create a new repository called 'RedAndGreen':
 	* to do that one need to click on the + sign left from your profile name
-	* As you already created a local git repository follow the instructions for:
+
+As you already created a local git repository follow the instructions for:
+	  
 	  **…or push an existing repository from the command line**
-	  It should be something along these lines:
+	  
+	  Use command like:
+	  
 	  ```
 	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
 	  git push -u origin master
