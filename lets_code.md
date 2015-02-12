@@ -318,7 +318,7 @@ Try it with a different function other that the helloWorld one.
 
 **Remember to commit to GIT**
 
-Now some extra things to try:
+**Now some extra things to try:**
 * Add support to run multiple tests - add a block for each test to the tdd.html screen
 * If a test fails display the error / exception on the screen
 * Display on the screen how many tests passed or failed.
