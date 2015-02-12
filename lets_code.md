@@ -151,8 +151,8 @@ Once done add your changes to git by using the same commands you used above.
 
 ## Task 5
 
-In all the tasks above we tested our code by running it in the browser and seeing if it worked as it should have.
-I will introduce you now to a better way - you will help the computer to decide if things are working as they should od not. This way of programming is called Test Driven Development and it use a Red & Green coding cycle.
+In all the tasks above we tested our code by running it in the browser and checking if it worked as it should.
+What about writing a program to check if things are working as they should or not. This way of programming is called Test Driven Development and it use a Red & Green coding cycle.
 
 In this Task you need to write a function called, setBackgoundColor it takes two parameters the id of the element who's background color is to be set and then the color it should be set too.
 
@@ -222,3 +222,41 @@ Congratulations! You just created your first function using TDD!
 * run the test again - it should work now
 * make your code better if needed, without changing the actual behaviour (google this: code refactoring) 
 * start the process again, by adding a new test...
+
+## Task 6
+
+In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test and a way to see whether the test passed or not by displaying a red or green block.
+
+We need something like this:
+
+```
+TestMyCode.run("testing hello world function", function(){
+	
+	var result = helloWorld();
+	Test.assert("hello world!", result);
+});
+```
+
+For this task you will need to create these files:
+File name | What this file is for
+----------|----------------------
+tdd.js | The TestMyCode implementation will be in here
+tdd_test.js | TestMyCode will be tested in here
+tdd.html | Bring all the files together & test executed from here
+tdd.css | Make the html lool nice
+tdd_hello_world.js | the function under test
+
+So let's use TDD to create this code.
+* Copy the code from above into the ```tdd_test.js``` file
+* 
+
+ 
+	
+	
+
+
+
+
+
+
+
