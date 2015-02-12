@@ -137,7 +137,8 @@ Using the above 3 files create a web page:
 
 * that display a white square that is 300px by 300px with a black border that is 5px thick
 * add two buttons under the square one with text 'Make green' the other with 'Make red' 
-* when the respective buttons are pressed they should make the square their respective colors.
+* when the 'Make green' button is pressed it should make the square geen.
+* when the 'Make red' button is pressed it should make the square red.
 
 **The html should look like this**
 ```
