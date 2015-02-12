@@ -12,13 +12,18 @@ In your projects folder:
 * after each task remember to add your changes to git
 
 In github create a new repository called 'RedAndGreen':
-	* to do that one need to click on the + sign left from your profile name
 
-As you already created a local git repository follow the instructions for:
-	  
+* to do that click on the + sign left from your profile name
+* now select 'New repository'
+* enter the repository name 'RedAndGreen'
+* now click 'Create repository'
+
+You will be presented with a few different setup options, you need to follow the instructions under:
   **…or push an existing repository from the command line**
+  
+the parameters will be specific to your environment and you can copy and paste them into your RedAndGreen local directory in the terminal.  
 
-  Use command like:
+The command would look like this, with your own git username:
 	  
 	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
 	  git push -u origin master
