@@ -8,8 +8,6 @@ In your projects folder:
 * create a folder called RedAndGreen
 * change into the folder RedAndGreen using ```cd RedAndGreen```
 * initialize it as a git repository using this command ```git init```
-* create all the files below in that folder
-* after each task remember to add your changes to git
 
 In github create a new repository called 'RedAndGreen':
 
@@ -28,6 +26,11 @@ The command would look like this, with your own git username:
 	  
 	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
 	  git push -u origin master
+
+Files:
+* as you do each task create the files in the 'RedAndGreen' folder
+* after each task remember to add your changes to git
+
 	  
 ## Task 1
 
