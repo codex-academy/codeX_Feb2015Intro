@@ -2,6 +2,8 @@
 
 Now we are going to write some code outside of Codecademy.
 
+You should create a projects folder
+
 In your projects folder:
 * create a folder called RedAndGreen
 * change into the folder RedAndGreen using ```cd RedAndGreen```
