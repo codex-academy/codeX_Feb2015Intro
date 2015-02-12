@@ -305,11 +305,11 @@ TestMyCode needs 2 methods:
 	* if the expected results was not returned display a red square
 * Use an object literal to create this.
 
-**Refresh ** ```tdd.html``` to see what errors you are getting.
+**Refresh** ```tdd.html``` to see what errors you are getting.
 
 In the ```tdd_hello_world.js``` file create a simple function that returns 'hello world!';
 
-**Refresh ** ```tdd.html``` to see what errors you are getting.
+**Refresh** ```tdd.html``` to see what errors you are getting.
 
 By now you should be close... to have a small TDD framework that allows you to test your code.
 Do you have a green block yet?
