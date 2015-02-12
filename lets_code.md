@@ -16,17 +16,13 @@ In github create a new repository called 'RedAndGreen':
 
 As you already created a local git repository follow the instructions for:
 	  
-	  **…or push an existing repository from the command line**
+  **…or push an existing repository from the command line**
+
+  Use command like:
 	  
-	  Use command like:
-	  
-	  ```
 	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
 	  git push -u origin master
-	  ```
 	  
-	  
-
 ## Task 1
 
 > This task requires HTML & CSS
