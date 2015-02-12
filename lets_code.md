@@ -9,6 +9,18 @@ In your projects folder:
 * create all the files below in that folder
 * after each task remember to add your changes to git
 
+In github create a new repository called 'RedAndGreen':
+	* to do that one need to click on the + sign left from your profile name
+	* As you already created a local git repository follow the instructions for:
+	  **…or push an existing repository from the command line**
+	  It should be something along these lines:
+	  ```
+	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
+	  git push -u origin master
+	  ```
+	  
+	  
+
 ## Task 1
 
 > This task requires HTML & CSS
@@ -39,9 +51,11 @@ The first square should be green and the second square should be red. Be sure th
 ```
 
 Once you are done add your changes to git by using these commands:
+* ```git pull``` to get any remote changes
 * ```git status``` to see what changed
 * ```git add .``` to add everything to git
 * ```git commit -m "task 1 is done"``` to commit your changes to git
+*  ```git push -u origin master``` to push your changes to github
 
 ## Task 2
 
@@ -227,6 +241,30 @@ Congratulations! You just created your first function using TDD!
 
 ## Task 6
 
+Now using TDD create an Constructor Function (Class) that make it easy to set the background color of a html element to red or Green. Call the function RedOrGreen, the constructur function should take the element id as a parameter. It should have two functions called ```makeRed``` and ```makeGreen```
+
+Using it should look like this"
+
+```
+   var rg = new RedOrGreen("myElement");
+   
+   rg.makeGreen();
+   // myElements backgound color should be green now
+   
+   rg.makeRed();
+   // myElements backgound should be red now
+   
+```
+
+Create these files:
+* red_green.js
+* red_green_test.js
+* red_green.html
+
+**Remember to commit to GIT**
+
+## Task 7
+
 In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test and a way to see whether the test passed or not by displaying a red or green block.
 
 We need something like this:
@@ -234,7 +272,6 @@ We need something like this:
 ```
 TestMyCode.run("testing hello world function", function(){
 	var result = helloWorld();
-	
 	// is the result as we expected?
 	Test.assert("hello world!", result);
 });
