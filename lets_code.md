@@ -25,7 +25,6 @@ the parameters will be specific to your environment and you can copy and paste t
 The command would look like this, with your own git username:
 	  
 	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
-	  git push -u origin master
 
 Files:
 * as you do each task create the files in the 'RedAndGreen' folder
