@@ -2,7 +2,7 @@
 
 Now we are going to write some code outside of Codecademy.
 
-You should create a projects folder
+You should have a projects folder in your home directory, it's good practice to create all your different projects in one place on your PC that you can find easily.
 
 In your projects folder:
 * create a folder called RedAndGreen
