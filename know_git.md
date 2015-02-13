@@ -1,21 +1,27 @@
 ## Git - Version Control
 
 As a software developer you will be writing your code in files and you will not only be doing that on your own, 
-but with other team members. So you will need some way of keeping track what you have done and what your teammates 
-have done. Have you ever lost your changes in a Word document or text file, because you lots the USB Drive or 
-because you over written some file by accident? These are the kind of things that might start to happen as you start 
-to write code. Luckily there are a categoty of tools called Version Control tools, that allows you to manage 
-the files that you create and change everyday as a software developer. 
-It allows you to manage your own files, but also to share your files and changes to your files with your 
-collegues and even other people on the internet.
+but with other team members. So you will need some way of keeping track of what you have done - and what your teammates 
+have done. 
 
-The version control software we will be using is called ```git``` and to publish and share your 
-code on ```http://github.com```. You will get to know git and github well in the next few months.
+Have you ever lost your changes in a Word document or text file, because you lost the USB Drive or 
+because you saved over a file by accident? These are the kind of things that might start happening as you start 
+to write code. 
 
-To get a quick introduction to github do the online tutorial at: https://try.github.io
+Luckily there is a category of tools called Version Control tools, which allow you to manage the files that you create and change everyday as a software developer. 
+You can manage your own files, and also share your files and changes to your files with your colleagues - and even other people on the internet.
 
-Once you have a better idea of what git is all about try it on you local machine by following the instructions 
-that are here: https://github.com/jlord/git-it
+ * The version control software we will be using is called ```git```. This program will run on your laptop. 
+ * ```http://github.com``` is the site where you will publish and share your code on the internet.
 
-Now you should no alot more about version control using, git. Should you ever have any questions you can 
-refer back to the resources above and the usefull guide at: http://jlord.us/git-it/ or there is always google.
+You will get to know git and github very well in the next few months!
+
+### Some Exercises
+
+To get a quick introduction to github, do the online tutorial at: https://try.github.io
+
+Once you have a better idea of what git is all about, try it on your local machine by following the instructions 
+over here: https://github.com/jlord/git-it
+
+Now you should know a lot more about version control using ```git```. Should you ever have any questions you can 
+refer back to the info on this page, as well as the useful guide at: http://jlord.us/git-it/ ... or there is always Google!
