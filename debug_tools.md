@@ -3,9 +3,11 @@
 
 ## Debugging
 
-As you write software you will make mistakes alot, some times it will be easy to find a problem or bug, some times you will struggle... some times will find it easily. Relax! This is an integral part of programming... It will drive you semi insane, but it is a skill you need to master.
+As you write software you will make mistakes a lot. 
 
-A bug in software development refers to a problem, if a program have a bug it means that it have an issue that stop it from working or that makes it work sub-optimally. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser come with some tools that goes a long way in assisting one in finding problems in ones program.
+Sometimes it will be easy to find a problem or bug, sometimes you will struggle... sometimes it will feel impossible. Relax! This is an integral part of programming... It will drive you semi insane, but it is a skill you need to master.
+
+A bug in software development refers to a problem. If a program has a bug it means that it has an issue which stops it from working, or it doesn't work as we expect. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser comes with some tools that go a long way to help us find the problems in our code.
 
 ###The Chrome developer tools include:
 * Developer Tools
@@ -13,12 +15,12 @@ A bug in software development refers to a problem, if a program have a bug it me
 
 To access them:
 
-* click on the three lines, right of the address bar
-* then click 'More tools' 
-* 'Developer Tools' and 'Javascript Console' is two of the options that should be available.
-* by clicking either one of them a screen will appear at the bottom of the screen in Chrome. 
+* Click on the three lines to the right of the address bar in your browser now
+* Then click 'More tools' 
+* Look for 'Developer Tools' and 'Javascript Console' in the options available.
+* When you click either one of them a screen will appear at the bottom of the screen in Chrome. 
  
-This will allow you to do various usefull things such as:
+These will allow you to do various useful things such as:
 * Identify HTML Elements by clicking in the browser
 * See which CSS tags are affecting a specific element
 * Switch of the CSS styling at affects the selected element
@@ -29,7 +31,7 @@ This is just to mention a few of the things you can do in Google Developer tools
 
 ### Sublime Text
 
-Sublime Text editor is a text editor with lots of nice features that makes your life as a developer much easier.
+Sublime Text editor is a text editor with lots of nice features which make your life as a developer much easier.
 
 A few of those features includes:
 * Basic code completion - based on content in your file
@@ -48,3 +50,6 @@ Let's try some things:
 * Press press 'tab' again
 * What happened?
 * In the body of the tag you just created type 'Hello World!'
+
+Now that you're more familiar with the tool set, you're ready to write some code.
+Get going [here!] (lets_code.md)
