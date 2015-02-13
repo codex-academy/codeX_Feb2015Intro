@@ -43,7 +43,7 @@ Work your way through each of these exercises - they're challenging but rewardin
 
 ## Let's code
 
-So far most of the code you might have written might have been inside of Codecademy, that is about to change! 
+So far most of the code you have written might have been inside of Codecademy, that is about to change! 
 
 In reality most software is written in text editors or a more adanced text editor called an Integrated Development Environment or IDE for short. We will use a text editor called Sublime Text and later you will be introduced to an IDE called Eclipse.
 
@@ -52,5 +52,5 @@ In reality most software is written in text editors or a more adanced text edito
 
 ### Javascript on the command line
 
-So far all the Javascript that you wrote was running inside of the web browser. 
+So far all the Javascript that you've written was running inside of the web browser. 
 By using node js (or node just for short) you can run javascript programs from the terminal, without the need for a web browser. This allows you to use Javascript to write some programs that don't depend on the web browser - for example, accessing data in a database.
