@@ -8,11 +8,13 @@ Ubuntu has a package manager  called ```apt-get```which allows you to easily ins
 
 In a termnal window on Ubuntu type ```apt-get``` and press enter.
 
+> Using ```sudo``` we can install software as administrator. It will prompt you for a password
+
 Now let's use ```apt-get``` to install some software  that we will need using the ```apt-get install <package to install>```:
 
-* ```apt-get install git```
-* ```apt-get install nodejs-legacy```
-* ```apt-get install npm```
+* ```sudo apt-get install git```
+* ```sudo apt-get install -g nodejs-legacy```
+* ```sudo apt-get install -g npm```
 
 ## Installing binaries:
 
