@@ -194,6 +194,7 @@ TDD starts like this:
 
 Create files called:
 * task5.html
+* task5.css
 * two javascript files calles task5.js & task5_tests.js.
 
 The html file should reference the two seperate javascript files. The one Javascript file will contain our function implementation and the other the test code.
