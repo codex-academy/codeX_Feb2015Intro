@@ -10,6 +10,11 @@ In a termnal window on Ubuntu type ```apt-get``` and press enter.
 
 > Using ```sudo``` we can install software as administrator. It will prompt you for a password
 
+Before you do anything execute this command:
+
+```sudo apt-get update```
+
+
 Now let's use ```apt-get``` to install some software  that we will need using the ```apt-get install <package to install>```:
 
 * ```sudo apt-get install git```
