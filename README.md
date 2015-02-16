@@ -50,7 +50,14 @@ In reality most software is written in text editors or a more adanced text edito
 * Learn how to find problems in you code using [Debugging & Tools](debug_tools.md)
 * Let get going and [do some coding now] (lets_code.md)
 
+### Katas using 53 functions
+
+Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions
+
+
 ### Javascript on the command line
 
 So far all the Javascript that you've written was running inside of the web browser. 
-By using node js (or node just for short) you can run javascript programs from the terminal, without the need for a web browser. This allows you to use Javascript to write some programs that don't depend on the web browser - for example, accessing data in a database.
+By using node js (or node just for short) you can run javascript programs from the terminal, without the need for a web browser. This allows you to use Javascript to write some programs that don't depend on the web browser - for example, accessing data in a database. Soon we will be using it to program web servers and even to do some robotics.
+
+
