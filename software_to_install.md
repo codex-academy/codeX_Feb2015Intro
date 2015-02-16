@@ -13,8 +13,8 @@ In a termnal window on Ubuntu type ```apt-get``` and press enter.
 Now let's use ```apt-get``` to install some software  that we will need using the ```apt-get install <package to install>```:
 
 * ```sudo apt-get install git```
-* ```sudo apt-get install -g nodejs-legacy```
-* ```sudo apt-get install -g npm```
+* ```sudo apt-get install nodejs-legacy```
+* ```sudo apt-get install npm```
 
 ## Installing binaries:
 
