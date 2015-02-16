@@ -311,9 +311,11 @@ You might notice that the ```TestMyCode``` object is non existent.
 TestMyCode needs 2 methods:
 * a ```run``` method, it takes two parameters - the name of the test and a function that should be executed
 * an ```assert``` method 
-	* it checks the test was successfull, the expected result was returned or not
+	* it checks the test was successfull, if the expected result was returned or not
 	* if the expected result was returned display a green square
 	* if the expected results was not returned display a red square
+	* if there's and error/exception display a red square
+	
 * Use an object literal to create this.
 
 **Refresh** ```tdd.html``` to see what errors you are getting.
@@ -332,4 +334,4 @@ Try it with a different function other that the helloWorld one.
 **Now some extra things to try:**
 * Add support to run multiple tests - add a block for each test to the tdd.html screen
 * If a test fails display the error / exception on the screen
-* Display on the screen how many tests passed or failed.
+* Display how many tests passed or failed.
