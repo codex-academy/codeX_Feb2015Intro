@@ -23,5 +23,4 @@ Note: There will be a flash drive avialable so that you don't need to download t
 Install these programs now:
 
 * Sublime Text
-* Eclipse
 * Google Chrome
