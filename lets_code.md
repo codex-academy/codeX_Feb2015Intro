@@ -335,3 +335,10 @@ Try it with a different function other that the helloWorld one.
 * Add support to run multiple tests - add a block for each test to the tdd.html screen
 * If a test fails display the error / exception on the screen
 * Display how many tests passed or failed.
+
+**Now head over to**
+ 
+Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions.
+ 
+
+
