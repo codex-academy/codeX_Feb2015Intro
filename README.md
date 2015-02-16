@@ -16,7 +16,7 @@ If you haven't completed them yet it's not a train smash! Just complete them bef
 
 After completing all those courses in Codecademy you must be feeling quite chuffed with yourself - and with good reason! You put in the hours, you argued your way through the challenges and you have the badges to show. Now we are going to remove the side wheels, so things might start feeling a bit unstable. You will be unsure on what code to use where, but this is all pretty normal. 
 
-Just to prove to you that you are not alone in [read this quickly](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard).
+Just to prove to you that you are not alone in [see this quickly](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard). It's quite a long, but interesting read.
 
 So now you know that you are not alone let's get going.
 
