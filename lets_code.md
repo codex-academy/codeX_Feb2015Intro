@@ -94,8 +94,8 @@ In a file called task2.html create a html page:
 * That display two white squares that is 300px by 300px with a black border that is 5px thick.
 * create a button underneath each square. 
 * the button text under the first square should be 'Make green' and 'Make red' under the second square. 
-* when the button under the first square is pressed it should make the  first square green. 
-* when the button under the 2nd square is pressed the 2nd square it should make the button green.
+* when the button under the first square is pressed it should make the first square green. 
+* when the button under the second square is pressed it should make the second square red.
 
 **The HTML should look look something like this**
 ```
