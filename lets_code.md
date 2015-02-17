@@ -298,6 +298,7 @@ tdd_test.js | TestMyCode will be tested in here
 tdd.html | Bring all the files together & test executed from here
 tdd.css | Make the html lool nice
 tdd_hello_world.js | the function under test
+red_green.js | reuse the function you wrote earlier
 
 So let's use TDD to create this code.
 * Copy the code from above into the ```tdd_test.js``` file
