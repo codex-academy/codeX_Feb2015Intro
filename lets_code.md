@@ -282,10 +282,10 @@ In this task we would like to make it much easier to write code using TDD. What 
 We need something like this:
 
 ```
-TestMyCode.run("testing hello world function", function(){
+TestMyCode.run("testing hello world function", function(assert){
 	var result = helloWorld();
 	// is the result as we expected?
-	Test.assert("hello world!", result);
+	assert.equals("hello world!", result);
 });
 ```
 
@@ -310,14 +310,14 @@ So let's use TDD to create this code.
 
 You might notice that the ```TestMyCode``` object is non existent.
 
-TestMyCode needs 2 methods:
-* a ```run``` method, it takes two parameters - the name of the test and a function that should be executed
-* an ```assert``` method 
+There's a view things to think about:
+* a ```run``` method for the TestMyCode class, it takes two parameters - the name of the test and a function that should be executed
+* the ```assert``` function, it's passed into the test function 
 	* it checks the test was successfull, if the expected result was returned or not
-	* if the expected result was returned display a green square
-	* if the expected results was not returned display a red square
-	* if there's and error/exception display a red square
-	
+* Ensure that:
+	* if the expected result was returned to display a green square
+	* if the expected results was not returned to display a red square
+	* if there's and error/exception display a red square - use ```try/catch``` exception handling in javascript
 * Use an object literal to create this.
 
 **Refresh** ```tdd.html``` to see what errors you are getting.
@@ -333,8 +333,9 @@ Try it with a different function other that the helloWorld one.
 
 **Remember to commit to GIT**
 
-**Now some extra things to try:**
+**Now add these:**
 * Add support to run multiple tests - add a block for each test to the tdd.html screen
+* Display which test passed or failed
 * If a test fails display the error / exception on the screen
 * Display how many tests passed or failed.
 
