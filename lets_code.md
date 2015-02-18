@@ -336,8 +336,8 @@ Try it with a different function other that the helloWorld one.
 **Now add these:**
 * Add support to run multiple tests - add a block for each test to the tdd.html screen
 * Display which test passed or failed
-* If a test fails display the error / exception on the screen
-* Display how many tests passed or failed.
+* If a test fails display the error / exception on the screen in the block for the test
+* Display how many tests passed or failed
 
 **Now head over to**
  
