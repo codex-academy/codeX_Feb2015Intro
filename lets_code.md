@@ -343,7 +343,7 @@ So you might not realise it, but you have now built a small Unit Testing framewo
 	* add a block for each test to the tdd.html screen
 	* green for a passing test
 	* red for a failing test
-	* you will need to dynamically add elements to the DOM
+	* you will need to dynamically add elements to the DOM. Use this as a reference point: http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/ 
 	
 * Display which test passed or failed
 * If a test fails display the error / exception on the screen in the block for the test
