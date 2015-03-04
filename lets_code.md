@@ -328,24 +328,32 @@ In the ```tdd_hello_world.js``` file create a simple function that returns 'hell
 
 By now you should be close, to have a small TDD framework that allows you to test your code.
 Do you have a green block yet?
-If so change your function to make the block go green.
-Try it with a different function other that the helloWorld one.
+If not change your function to return the expected result make the block go green.
+Try it with a different function other that the helloWorld one. Make sure that you can get a red block if the function return an unexpected result.
 
 **Remember to commit to GIT**
 
 ##Task 8
 
-**Now add these:**
-* Add support to run multiple tests - add a block for each test to the tdd.html screen
+So you might not realise it, but you have now built a small Unit Testing framework. It has it limitations though, it can only test one function at a time, it is not telling one what one is testing or how many tests have failed or passed.
+
+**So now**
+
+* Add support to run multiple tests:
+	* add a block for each test to the tdd.html screen
+	* green for a passing test
+	* red for a failing test
+	* you will need to dynamically add elements to the DOM
+	
 * Display which test passed or failed
 * If a test fails display the error / exception on the screen in the block for the test
-* Display how many tests passed or failed
+* Display how many tests passed or failed, only displayed this once.
 
-**Review...**
+**Once you think you are done** please review your testing implementation with your Tech Mentor
 
 **Now head over to**
 
-Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions.
+Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions, you should be using the Unit testing framework you created in Task 7 & 8 to test the first 5 functions.
  
 
 
