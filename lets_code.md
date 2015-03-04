@@ -340,7 +340,8 @@ So you might not realise it, but you have now built a small Unit Testing framewo
 **So now**
 
 * Add support to run multiple tests:
-	* add a block for each test to the tdd.html screen
+	* you can add multiple tests in ```tdd_test.js```	
+	* for each test added block should be displayed on the tdd.html screen
 	* green for a passing test
 	* red for a failing test
 	* you will need to dynamically add elements to the DOM. Use this as a reference point: http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/ 
