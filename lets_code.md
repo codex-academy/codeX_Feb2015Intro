@@ -326,12 +326,14 @@ In the ```tdd_hello_world.js``` file create a simple function that returns 'hell
 
 **Refresh** ```tdd.html``` to see what errors you are getting.
 
-By now you should be close... to have a small TDD framework that allows you to test your code.
+By now you should be close, to have a small TDD framework that allows you to test your code.
 Do you have a green block yet?
 If so change your function to make the block go green.
 Try it with a different function other that the helloWorld one.
 
 **Remember to commit to GIT**
+
+##Task 8
 
 **Now add these:**
 * Add support to run multiple tests - add a block for each test to the tdd.html screen
@@ -339,8 +341,10 @@ Try it with a different function other that the helloWorld one.
 * If a test fails display the error / exception on the screen in the block for the test
 * Display how many tests passed or failed
 
+**Review...**
+
 **Now head over to**
- 
+
 Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions.
  
 
