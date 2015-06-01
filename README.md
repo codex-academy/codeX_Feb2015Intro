@@ -1,4 +1,4 @@
-# codeX February 2015
+# codeX Setup Intro 2015
 
 A big welcome to Project codeX! 
 
