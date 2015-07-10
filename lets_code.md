@@ -31,12 +31,12 @@ Files:
 * after each task remember to add your changes to git
 
 	  
-## Task 1
+## T1 - Create Red and Green Squares
 
 > This task requires HTML & CSS
 
-In a file called task1.html create two squares that is 300px by 300px with a black border that is 5px thick.
-The first square should be green and the second square should be red. Be sure that your HTML file is properly formed, you can use the basic html template from Sublime Text for this as described above.
+In a file called task1.html create two squares that are 300px by 300px with a black border that is 5px thick.
+The first square should be red and the second square should be green. Be sure that your HTML file is properly formed - you can use the basic html template from Sublime Text for this as described above.
 
 > For this task create the CSS in a style tag in the head of the html file file
 
@@ -67,7 +67,7 @@ Once you are done add your changes to git by using these commands:
 * ```git commit -m "task 1 is done"``` to commit your changes to git
 *  ```git push -u origin master``` to push your changes to github
 
-## Task 2
+## T2 Colour the squares
 
 > This task requires HTML, CSS & Javascript
 
@@ -91,11 +91,11 @@ Styling elements from Javascript | ```element.addEventListener('click', function
 What is the DOM?   | |http://eloquentjavascript.net/13_dom.html
 
 In a file called task2.html create a html page:
-* That display two white squares that is 300px by 300px with a black border that is 5px thick.
+* That displays two white squares that are 300px by 300px with a black border that is 5px thick.
 * create a button underneath each square. 
-* the button text under the first square should be 'Make green' and 'Make red' under the second square. 
-* when the button under the first square is pressed it should make the first square green. 
-* when the button under the second square is pressed it should make the second square red.
+* the button text under the first square should be 'Make red' and 'Make green' under the second square. 
+* when the button under the first square is pressed it should make the first square red. 
+* when the button under the second square is pressed it should make the second square green.
 
 **The HTML should look look something like this**
 ```
@@ -124,7 +124,7 @@ Once you are done add your changes to git by using these commands:
 * ```git add .``` to add everything to git
 * ```git commit -m "task 2 is done"``` to commit your changes to git
 
-## Task 3
+## T3 One square changing colours
 
 > This task requires HTML, CSS & Javascript
 
@@ -135,10 +135,11 @@ Create 3 files:
 
 Using the above 3 files create a web page:
 
-* that display a white square that is 300px by 300px with a black border that is 5px thick
-* add two buttons under the square one with text 'Make green' the other with 'Make red' 
-* when the 'Make green' button is pressed it should make the square geen.
+* that displays a white square that is 300px by 300px with a black border that is 5px thick
+* add two buttons under the square: one with text 'Make red' the other with 'Make green' 
 * when the 'Make red' button is pressed it should make the square red.
+* when the 'Make green' button is pressed it should make the square geen.
+
 
 **The html should look like this**
 ```
@@ -155,9 +156,9 @@ Using the above 3 files create a web page:
 </html>
 ```
 
-Once done add your changes to git by using the same commands as you used for the tasks above
+Once done add your changes to git by using the same commands as you used for the tasks above.
 
-## Task 4
+## T4 One button to change square colours
 
 > This task requires HTML, CSS & Javascript
 
@@ -166,28 +167,28 @@ Using seperate file fon html, css & javascript called task4.html, task4.css & ta
 * that displays a green square that is 300px by 300px with a black border that is 5px thick.
 * add one button under the square one with text 'Make red' 
 * when the buttons is pressed the square should go red
-* the button text should change to 'Make green'
+	* and the button text should change to 'Make green'
 * when pressed the square should go green
-* only for the button text to change to 'Make red'
-* upon which pressed the square goes red
+	* and the button text should change to 'Make red'
+* when pressed the square goes red again
 * this process should be repeated over and over
 
 Once done add your changes to git by using the same commands you used above.
 
-## Task 5
+## T5 Test your function
 
 In all the tasks above we tested our code by running it in the browser and checking if it worked as it should.
-What about writing a program to check if things are working as they should or not. This way of programming is called Test Driven Development and it use a Red & Green coding cycle.
+What about writing a program to check if things are working as they should or not. This way of programming is called Test Driven Development and it uses a Red & Green coding cycle.
 
-In this Task you need to write a function called, setBackgoundColor it takes two parameters the id of the element who's background color is to be set and then the color it should be set too.
+In this Task you need to write a function called setBackgoundColor. It takes two parameters: the id of the element whose background color is to be set, and then the color it should be set to.
 
 Calling this function looks like this: ```setBackgoundColor('mySquare', 'orange');```
 
 TDD starts like this:
 
-* write some code that use the code that you would like to write
+* write some code that uses the code that you would like to write
 * run this code
-* everything should fail horribly the code you are calling doesn't exist yet!
+* everything should fail horribly - the code you are calling doesn't exist yet!
 * the state of the test is 'red'
 
 **Ok let's do that quickly:**
@@ -221,9 +222,9 @@ The html file should should reference function implementation file before the te
 
 **In the task5_tests.js file**
 
-* we need to check the current color of the background of the 'mySquare' is green, we can use the DOM to do that
+* We need to check the current color of the background of the 'mySquare' is green. We can use the DOM to do that.
 * now call the ```setBackgoundColor('mySquare', 'red');```
-* now we check that the background of 'mySquare' set to red
+* now we check that the background of 'mySquare' is set to red
 * Use the alert function to display 'success' if the background color of 'mySquare' is equal to green, otherwise display 'failure'
 
 **It should fail now!**
@@ -233,7 +234,7 @@ The html file should should reference function implementation file before the te
 * create an implementation for the ```setBackgoundColor``` function
 	* remember it takes 2 parameters
 	* first one the element name
-	* second one the color to set the background to
+	* second one the color that you will set the background to
 	* the function should set the background of the element specified to the color supplied.
 * refresh the page and see what happens
 * There should be no errors in Use Chrome developer tools'
@@ -251,9 +252,9 @@ Congratulations! You just created your first function using TDD!
 
 **Remember to commit to GIT**
 
-## Task 6
+## T6 Test changing colours
 
-Now using TDD create an Constructor Function (Class) that make it easy to set the background color of a html element to red or Green. Call the function RedOrGreen, the constructur function should take the element id as a parameter. It should have two functions called ```makeRed``` and ```makeGreen```
+Now using TDD create an Constructor Function (Class) that makes it easy to set the background color of a html element to Red or Green. Call the function RedOrGreen. The constructur function should take the element id as a parameter. It should have two functions called ```makeRed``` and ```makeGreen```
 
 Using it should look like this"
 
@@ -275,7 +276,7 @@ Create these files:
 
 **Remember to commit to GIT**
 
-## Task 7
+## T7 Display Test Results
 
 In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test and a way to see whether the test passed or not by displaying a red or green block.
 
@@ -296,7 +297,7 @@ For this task you will need to create these files:
 tdd.js | The TestMyCode implementation will be in here
 tdd_test.js | TestMyCode will be tested in here
 tdd.html | Bring all the files together & test executed from here
-tdd.css | Make the html lool nice
+tdd.css | Make the html look nice
 tdd_hello_world.js | the function under test
 red_green.js | reuse the function you wrote earlier
 
@@ -306,18 +307,18 @@ So let's use TDD to create this code.
  	* reference the html and css files from it.
  	* Create a 300x300px square
  	
-* Once done open tdd.html in a Chrome and check the Developer tools to see what errors you are getting?
+* Once done open tdd.html in Chrome and check the Developer tools to see what errors you are getting.
 
 You might notice that the ```TestMyCode``` object is non existent.
 
-There's a view things to think about:
-* a ```run``` method for the TestMyCode class, it takes two parameters - the name of the test and a function that should be executed
-* the ```assert``` function, it's passed into the test function 
-	* it checks the test was successfull, if the expected result was returned or not
+There are a few things to think about:
+* a ```run``` method for the TestMyCode class: it takes two parameters - the name of the test and a function that should be executed
+* the ```assert``` function: it's passed into the test function 
+	* it checks the test was successful, if the expected result was returned or not
 * Ensure that:
-	* if the expected result was returned to display a green square
-	* if the expected results was not returned to display a red square
-	* if there's and error/exception display a red square - use ```try/catch``` exception handling in javascript
+	* if the expected result was returned: display a green square
+	* if the expected results was not returned: display a red square
+	* if there is an error/exception: display a red square - use ```try/catch``` exception handling in javascript
 * Use an object literal to create this.
 
 **Refresh** ```tdd.html``` to see what errors you are getting.
@@ -326,35 +327,35 @@ In the ```tdd_hello_world.js``` file create a simple function that returns 'hell
 
 **Refresh** ```tdd.html``` to see what errors you are getting.
 
-By now you should be close, to have a small TDD framework that allows you to test your code.
+By now you should be close to having a small TDD framework that allows you to test your code.
 Do you have a green block yet?
-If not change your function to return the expected result make the block go green.
-Try it with a different function other that the helloWorld one. Make sure that you can get a red block if the function return an unexpected result.
+If not change your function to return the expected result, to make the block go green.
+Try it with a different function other that the helloWorld one. Make sure that you can get a red block if the function returns an unexpected result.
 
 **Remember to commit to GIT**
 
-##Task 8
+##T8 Unit Testing Framework
 
-So you might not realise it, but you have now built a small Unit Testing framework. It has it limitations though, it can only test one function at a time, it is not telling one what one is testing or how many tests have failed or passed.
+So you might not realise it, but you have now built a small Unit Testing framework. It has it limitations though - it can only test one function at a time, and it is not telling you what you are testing or how many tests have failed or passed.
 
 **So now**
 
 * Add support to run multiple tests:
 	* one can add multiple tests in ```tdd_test.js```	
-	* for each test added block should be displayed on the tdd.html screen
+	* for each test added, a block should be displayed on the tdd.html screen
 		* green for a passing test
 		* red for a failing test
 	* you will need to dynamically add elements to the DOM. Use this as a reference point: http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/ 
 	
 * Display which test passed or failed
 * If a test fails display the error / exception on the screen in the block for the test
-* Display how many tests passed or failed, only displayed this once.
+* Display how many tests passed or failed - only display this once.
 
 **Once you think you are done** please review your testing implementation with your Tech Mentor
 
 **Now head over to**
 
-Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions, you should be using the Unit testing framework you created in Task 7 & 8 to test the first 5 functions.
+Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions. You should be using the Unit testing framework you created in Task 7 & 8 to test the first 5 functions.
  
 
 
