@@ -158,6 +158,44 @@ Using the above 3 files create a web page:
 
 Once done add your changes to git by using the same commands as you used for the tasks above.
 
+## Publish your code to a website
+
+Now let's use github page to show the world what you did so far.
+
+We will use github pages: https://pages.github.com/
+
+You will need to create a branch of your code called ```gh-pages```
+
+Before you do that let's explore branching in github
+
+In your project folder type:
+
+```git branch```
+
+You should see a only one branch called ```master```
+
+You need to create a new branch called ```gh-pages```
+
+To create it type this in the terminal:
+
+```git branch gh-pages```
+
+To move into that branch type:
+
+```git checkout gh-pages```
+
+Any work you commit now will be done in the gh-pages branch. We will be using this branch to publish the work you are doing to github pages, to a page http://username.github.com/RedAndGreen.
+
+To push this branch to github do:
+
+```git push origin gh-pages```
+
+After you've done this you would like to move back into the master branch by doing:
+
+```git checkout master```
+
+After the above steps the work you've done so far will be available online at: http://username.github.com/RedAndGreen
+
 ## T4 One button to change square colours
 
 > This task requires HTML, CSS & Javascript
