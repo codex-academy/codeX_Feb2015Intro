@@ -160,13 +160,11 @@ Once done add your changes to git by using the same commands as you used for the
 
 ## Publish your code to a website
 
-Now let's use github page to show the world what you did so far.
-
-We will use github pages: https://pages.github.com/
+Now let's use github pages to publish (https://pages.github.com/) your work to a website.
 
 You will need to create a branch of your code called ```gh-pages```
 
-Before you do that let's explore branching in github
+Before you do that let's explore branching in github... ```todo add some info about branching - they covered it in git-it already...```
 
 In your project folder type:
 
@@ -174,9 +172,7 @@ In your project folder type:
 
 You should see a only one branch called ```master```
 
-You need to create a new branch called ```gh-pages```
-
-To create it type this in the terminal:
+No create a new branch called ```gh-pages``` by typing this in the terminal:
 
 ```git branch gh-pages```
 
@@ -186,15 +182,17 @@ To move into that branch type:
 
 Any work you commit now will be done in the gh-pages branch. We will be using this branch to publish the work you are doing to github pages, to a page http://username.github.com/RedAndGreen.
 
-To push this branch to github do:
+To push this branch to github type:
 
 ```git push origin gh-pages```
 
-After you've done this you would like to move back into the master branch by doing:
+After you've done this you should check out the master branch again by doing:
 
 ```git checkout master```
 
-After the above steps the work you've done so far will be available online at: http://username.github.com/RedAndGreen
+After the above steps the work you've done so far will be available online at:
+
+```http://username.github.com/RedAndGreen```
 
 ## T4 One button to change square colours
 
@@ -212,6 +210,10 @@ Using seperate file fon html, css & javascript called task4.html, task4.css & ta
 * this process should be repeated over and over
 
 Once done add your changes to git by using the same commands you used above.
+
+## Let's add easy navigation
+
+TODO - add steps to add a navigation menu that links to all the tasks they did in this project so far.
 
 ## T5 Test your function
 
