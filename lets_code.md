@@ -190,9 +190,7 @@ After you've done this you should check out the master branch again by doing:
 
 ```git checkout master```
 
-After the above steps the work you've done so far will be available online at:
-
-```http://username.github.com/RedAndGreen```
+After the above steps the work you've done so far will be available online at: ```http://username.github.com/RedAndGreen```
 
 ## T4 One button to change square colours
 
@@ -211,7 +209,7 @@ Using seperate file fon html, css & javascript called task4.html, task4.css & ta
 
 Once done add your changes to git by using the same commands you used above.
 
-## Let's add easy navigation
+## Let's make navigation easier
 
 TODO - add steps to add a navigation menu that links to all the tasks they did in this project so far.
 
