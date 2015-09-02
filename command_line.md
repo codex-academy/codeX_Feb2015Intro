@@ -2,7 +2,7 @@
 
 ## The command line
 
-As a skilled software developer you need to get familiar and comfortable with the command line or terminal as it is called on Ubuntu. The terminal is the big scary black screen with a blinking cursor, waiting for you to tell it what to do. Yes initialy this is a bit scary I know. But once you get more familiar with it and master a few basic commands it will be much less scary. And over time as you learn more and more command you will realise the power of the terminal.
+As a skilled software developer you need to get familiar and comfortable with the command line or terminal as it is called on Ubuntu. The terminal is the big scary black screen with a blinking cursor, waiting for you to tell it what to do. Yes initially this is a bit scary I know. But once you get more familiar with it and master a few basic commands it will be much less scary. And over time as you learn more and more commands you will realise the power of the terminal.
 
 Let's try out the terminal window, open a terminal window and let's try out a few commands.
 
@@ -22,8 +22,6 @@ Let's try out the terminal window, open a terminal window and let's try out a fe
 
 Congratulations you are now well on your way on mastering the command line.
 
-Now hop over http://linuxsurvival.com, and complete the first Modules 1 & 2. 
+Now hop over http://linuxsurvival.com, and complete the first Modules 1 & 2.
 
 Complete Module 3 & 4 in your own time later, this will help you along even further to deepen your knowledge of the command line.
-
-
