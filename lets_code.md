@@ -36,9 +36,9 @@ Files:
 > This task requires HTML & CSS
 
 In a file called task1.html create two squares that are 300px by 300px with a black border that is 5px thick.
-The first square should be red and the second square should be green. Be sure that your HTML file is properly formed - you can use the basic html template from Sublime Text for this as described above.
+The first square should be red and the second square should be green. Be sure that your HTML file is properly formed - you can use the basic HTML template from Sublime Text for this as described above.
 
-> For this task create the CSS in a style tag in the head of the html file
+> For this task create the CSS in a style tag in the head of the HTML file
 
 **The HTML should look look something like this**
 
@@ -69,10 +69,10 @@ Once you are done add your changes to git by using these commands:
 
 ## T2 Colour the squares
 
-> This task requires HTML, CSS & Javascript
+> This task requires HTML, CSS & JavaScript
 
 **This task will require you to:**
-* add some button click event handlers using Javascript
+* add some button click event handlers using JavaScript
 * manipulate the CSS styling using the browser DOM
 
 **The DOM**
@@ -86,11 +86,11 @@ Once you are done add your changes to git by using these commands:
 ------------------|--------------------|-----------------
 Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
 Finding DOM element - like a DIV element based on a ID name | ```var element = document.getElementById('id')``` |  http://www.w3schools.com/js/js_htmldom_elements.asp
-Styling elements from Javascript | ```element.style.backgroundColor = 'red';``` | http://www.w3schools.com/jsref/dom_obj_style.asp
-Styling elements from Javascript | ```element.addEventListener('click', function(){});``` | http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
+Styling elements from JavaScript | ```element.style.backgroundColor = 'red';``` | http://www.w3schools.com/jsref/dom_obj_style.asp
+Styling elements from JavaScript | ```element.addEventListener('click', function(){});``` | http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
 What is the DOM?   | |http://eloquentjavascript.net/13_dom.html
 
-In a file called task2.html create a html page:
+In a file called task2.html create a HTML page:
 * That displays two white squares that are 300px by 300px with a black border that is 5px thick.
 * create a button underneath each square.
 * the button text under the first square should be 'Make red' and 'Make green' under the second square.
@@ -113,7 +113,7 @@ In a file called task2.html create a html page:
 <body>
 	<!-- HTML goes here -->
 	<script type="text/javascript">
-		//javascript code goes here at the bottom to ensure the DOM is loaded...
+		//JavaScript code goes here at the bottom to ensure the DOM is loaded...
 	</script>
 </body>
 </html>
@@ -126,12 +126,12 @@ Once you are done add your changes to git by using these commands:
 
 ## T3 One square changing colours
 
-> This task requires HTML, CSS & Javascript
+> This task requires HTML, CSS & JavaScript
 
 Create 3 files:
-* task3.html - all html in here
-* task3.css - all css in here
-* task3.js - all javascript in here
+* task3.html - all HTML in here
+* task3.css - all CSS in here
+* task3.js - all JavaScript in here
 
 Using the above 3 files create a web page:
 
@@ -141,7 +141,7 @@ Using the above 3 files create a web page:
 * when the 'Make green' button is pressed it should make the square geen.
 
 
-**The html should look like this**
+**The HTML should look like this**
 ```
 <!DOCTYPE html>
 <html>
@@ -234,7 +234,7 @@ TDD starts like this:
 Create files called:
 * task5.html
 * task5.css
-* two javascript files calles task5.js & task5_tests.js.
+* two JavaScript files calles task5.js & task5_tests.js.
 
 The HTML file should reference the two separate JavaScript files. The one JavaScript file will contain our function implementation and the other the test code.
 
@@ -335,14 +335,14 @@ For this task you will need to create these files:
 tdd.js | The TestMyCode implementation will be in here
 tdd_test.js | TestMyCode will be tested in here
 tdd.html | Bring all the files together & test executed from here
-tdd.css | Make the html look nice
+tdd.css | Make the HTML look nice
 tdd_hello_world.js | the function under test
 red_green.js | reuse the function you wrote earlier
 
 So let's use TDD to create this code.
 * Copy the code from above into the ```tdd_test.js``` file
 * Create ```tdd.html```
- 	* reference the html and css files from it.
+ 	* reference the HTML and CSS files from it.
  	* Create a 300x300px square
 
 * Once done open tdd.html in Chrome and check the Developer tools to see what errors you are getting.
@@ -356,7 +356,7 @@ There are a few things to think about:
 * Ensure that:
 	* if the expected result was returned: display a green square
 	* if the expected results was not returned: display a red square
-	* if there is an error/exception: display a red square - use ```try/catch``` exception handling in javascript
+	* if there is an error/exception: display a red square - use ```try/catch``` exception handling in JavaScript
 * Use an object literal to create this.
 
 **Refresh** ```tdd.html``` to see what errors you are getting.

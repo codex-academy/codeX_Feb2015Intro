@@ -8,7 +8,7 @@ We hope that you will enjoy this journey with us and that you will learn and app
 
 This introduction assumes that you have completed both these courses in Codecademy:
  * [HTML & CSS](http://www.codecademy.com/en/tracks/web)
- * [Javascript](http://www.codecademy.com/en/tracks/javascript)
+ * [JavaScript](http://www.codecademy.com/en/tracks/javascript)
 
 If you haven't completed them yet it's not a train smash! Just complete them before you go any further.
 
@@ -54,9 +54,9 @@ In reality most software is written in text editors or a more advanced text edit
 
 Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions.
 
-### Javascript on the command line
 
 
+### JavaScript on the command line
 
 So far all the JavaScript that you've written was running inside of the web browser.
 By using Node.js (or Node just for short) you can run JavaScript programs from the terminal, without the need for a web browser. This allows you to use JavaScript to write some programs that don't depend on the web browser - for example, accessing data in a database. Soon we will be using it to program web servers and even to do some robotics.

@@ -7,25 +7,25 @@ As you write software you will make mistakes a lot.
 
 Sometimes it will be easy to find a problem or bug, sometimes you will struggle... sometimes it will feel impossible. Relax! This is an integral part of programming... It will drive you semi-insane, but it is a skill you need to master.
 
-A bug in software development refers to a problem. If a program has a bug it means that it has an issue which stops it from working, or it doesn't work as we expect. Finding bugs in Javascript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser comes with some tools that go a long way to help us find the problems in our code.
+A bug in software development refers to a problem. If a program has a bug it means that it has an issue which stops it from working, or it doesn't work as we expect. Finding bugs in JavaScript can sometimes be hard and a bit frustrating to say the least. Luckily the Chrome web browser comes with some tools that go a long way to help us find the problems in our code.
 
 ###The Chrome developer tools include:
 * Developer Tools
-* Javascript Console
+* JavaScript Console
 
 To access them:
 
 * Click on the three lines to the right of the address bar in your browser now
 * Then click 'More tools'
-* Look for 'Developer Tools' and 'Javascript Console' in the options available.
+* Look for 'Developer Tools' and 'JavaScript Console' in the options available.
 * When you click either one of them a screen will appear at the bottom of the screen in Chrome.
 
 These will allow you to do various useful things such as:
 * Identify HTML Elements by clicking in the browser
 * See which CSS tags are affecting a specific element
 * Switch of the CSS styling at affects the selected element
-* Look at the Javascript source code used by your web page
-* Add a breakpoint in Javascript source code
+* Look at the JavaScript source code used by your web page
+* Add a breakpoint in JavaScript source code
 
 This is just to mention a few of the things you can do in Google Developer tools. Other browsers have similar capabilities, but sometimes you need to install a browser plugin. In Firefox you can install the excellent Firebug plugin to get developer support.
 
