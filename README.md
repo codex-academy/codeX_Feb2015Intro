@@ -8,7 +8,7 @@ We hope that you will enjoy this journey with us and that you will learn and app
 
 This introduction assumes that you have completed both these courses in Codecademy:
  * [HTML & CSS](http://www.codecademy.com/en/tracks/web)
- * [Javascript](http://www.codecademy.com/en/tracks/javascript)
+ * [JavaScript](http://www.codecademy.com/en/tracks/javascript)
 
 If you haven't completed them yet it's not a train smash! Just complete them before you go any further.
 
@@ -31,7 +31,7 @@ So we would like you to register for a few online tools that we will be using at
 * http://stackoverflow.com
 * http://twitter.com
 
-You should spend about 10 mins on each site, seeing out what each does and checking out the different features.
+You should spend about 10 mins on each site, seeing what each does and checking out the different features.
 
 ### Tools of the trade
 Next steps are to get going with a few tools.
@@ -39,25 +39,24 @@ Work your way through each of these exercises - they're challenging but rewardin
 
 * Master the command line - [Command line mastery 101](command_line.md)
 * Some software to install - [Install these](software_to_install.md)
-* Version control with GIT - [Get to know Git](know_git.md)
+* Version control with Git - [Get to know Git](know_git.md)
 
 ## Let's code
 
 So far most of the code you have written might have been inside of Codecademy, that is about to change! 
 
-In reality most software is written in text editors or a more adanced text editor called an Integrated Development Environment or IDE for short. We will use a text editor called Sublime Text and later you will be introduced to an IDE called Eclipse.
+In reality most software is written in text editors or a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Sublime Text](http://www.sublimetext.com/) and later you will be introduced to an IDE called [Eclipse](https://eclipse.org/).
 
-* Learn how to find problems in you code using [Debugging & Tools](debug_tools.md)
-* Let get going and [do some coding now] (lets_code.md)
+* Learn how to find problems in your code using [Debugging & Tools](debug_tools.md)
+* Let's get going and [do some coding now](lets_code.md)
 
 ### Katas using 53 functions
 
-Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions
+Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions.
 
 
-### Javascript on the command line
 
-So far all the Javascript that you've written was running inside of the web browser. 
-By using node js (or node just for short) you can run javascript programs from the terminal, without the need for a web browser. This allows you to use Javascript to write some programs that don't depend on the web browser - for example, accessing data in a database. Soon we will be using it to program web servers and even to do some robotics.
+### JavaScript on the command line
 
-
+So far all the JavaScript that you've written was running inside of the web browser.
+By using Node.js (or Node just for short) you can run JavaScript programs from the terminal, without the need for a web browser. This allows you to use JavaScript to write some programs that don't depend on the web browser - for example, accessing data in a database. Soon we will be using it to program web servers and even to do some robotics.
