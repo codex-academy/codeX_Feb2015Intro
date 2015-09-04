@@ -1,13 +1,14 @@
-#Let's code!
+# Let's code!
 
 Now we are going to write some code outside of Codecademy.
 
 You should have a projects folder in your home directory, it's good practice to create all your different projects in one place on your PC that you can find easily.
 
 In your projects folder:
+
 * create a folder called RedAndGreen
-* change into the folder RedAndGreen using ```cd RedAndGreen```
-* initialize it as a git repository using this command ```git init```
+* change into the folder RedAndGreen using `cd RedAndGreen`
+* initialize it as a git repository using this command `git init`
 
 In github create a new repository called 'RedAndGreen':
 
@@ -18,8 +19,8 @@ In github create a new repository called 'RedAndGreen':
 
 You will be presented with a few different setup options, you need to follow the instructions under:
 
-  **…or push an existing repository from the command line**
-  
+**...or push an existing repository from the command line**
+
 the parameters will be specific to your environment and you can copy and paste them into your RedAndGreen local directory in the terminal.  
 
 The command would look like this, with your own git username:
@@ -42,7 +43,7 @@ The first square should be red and the second square should be green. Be sure th
 
 **The HTML should look look something like this**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,11 +62,12 @@ The first square should be red and the second square should be green. Be sure th
 ```
 
 Once you are done add your changes to git by using these commands:
-* ```git pull``` to get any remote changes
-* ```git status``` to see what changed
-* ```git add .``` to add everything to git
-* ```git commit -m "task 1 is done"``` to commit your changes to git
-*  ```git push -u origin master``` to push your changes to github
+
+* `git pull` to get any remote changes
+* `git status` to see what changed
+* `git add .` to add everything to git
+* `git commit -m "task 1 is done"` to commit your changes to git
+*  `git push -u origin master` to push your changes to github
 
 ## T2 Colour the squares
 
@@ -85,9 +87,9 @@ Once you are done add your changes to git by using these commands:
  Concept          |   Code snippet     | Link
 ------------------|--------------------|-----------------
 Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
-Finding DOM element - like a DIV element based on a ID name | ```var element = document.getElementById('id')``` |  http://www.w3schools.com/js/js_htmldom_elements.asp
-Styling elements from Javascript | ```element.style.backgroundColor = 'red';``` | http://www.w3schools.com/jsref/dom_obj_style.asp
-Styling elements from Javascript | ```element.addEventListener('click', function(){});``` | http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
+Finding DOM element - like a DIV element based on a ID name | `var element = document.getElementById('id')` |  http://www.w3schools.com/js/js_htmldom_elements.asp
+Styling elements from Javascript | `element.style.backgroundColor = 'red';` | http://www.w3schools.com/jsref/dom_obj_style.asp
+Styling elements from Javascript | `element.addEventListener('click', function(){});` | http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
 What is the DOM?   | |http://eloquentjavascript.net/13_dom.html
 
 In a file called task2.html create a html page:
@@ -98,7 +100,8 @@ In a file called task2.html create a html page:
 * when the button under the second square is pressed it should make the second square green.
 
 **The HTML should look look something like this**
-```
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,9 +123,10 @@ In a file called task2.html create a html page:
 ```
 
 Once you are done add your changes to git by using these commands:
-* ```git status``` to see what changed
-* ```git add .``` to add everything to git
-* ```git commit -m "task 2 is done"``` to commit your changes to git
+
+* `git status` to see what changed
+* `git add .` to add everything to git
+* `git commit -m "task 2 is done"` to commit your changes to git
 
 ## T3 One square changing colours
 
@@ -142,7 +146,8 @@ Using the above 3 files create a web page:
 
 
 **The html should look like this**
-```
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -162,35 +167,45 @@ Once done add your changes to git by using the same commands as you used for the
 
 Now let's use github pages to publish (https://pages.github.com/) your work to a website.
 
-You will need to create a branch of your code called ```gh-pages```
+You will need to create a branch of your code called `gh-pages`
 
-Before you do that let's explore branching in github... ```todo add some info about branching - they covered it in git-it already...```
+Before you do that let's explore branching in github... `todo add some info about branching - they covered it in git-it already...`
 
 In your project folder type:
 
-```git branch```
+```
+git branch
+```
 
-You should see a only one branch called ```master```
+You should see a only one branch called `master`
 
-No create a new branch called ```gh-pages``` by typing this in the terminal:
+No create a new branch called `gh-pages` by typing this in the terminal:
 
-```git branch gh-pages```
+```
+git branch gh-pages
+```
 
 To move into that branch type:
 
-```git checkout gh-pages```
+```
+git checkout gh-pages
+```
 
 Any work you commit now will be done in the gh-pages branch. We will be using this branch to publish the work you are doing to github pages, to a page http://username.github.com/RedAndGreen.
 
 To push this branch to github type:
 
-```git push origin gh-pages```
+```
+git push origin gh-pages
+```
 
 After you've done this you should check out the master branch again by doing:
 
-```git checkout master```
+```
+git checkout master
+```
 
-After the above steps the work you've done so far will be available online at: ```http://username.github.com/RedAndGreen```
+After the above steps the work you've done so far will be available online at: `http://username.github.com/RedAndGreen`
 
 ## T4 One button to change square colours
 
@@ -220,7 +235,7 @@ What about writing a program to check if things are working as they should or no
 
 In this Task you need to write a function called setBackgoundColor. It takes two parameters: the id of the element whose background color is to be set, and then the color it should be set to.
 
-Calling this function looks like this: ```setBackgoundColor('mySquare', 'orange');```
+Calling this function looks like this: `setBackgoundColor('mySquare', 'orange');`
 
 TDD starts like this:
 
@@ -240,7 +255,7 @@ The html file should reference the two seperate javascript files. The one Javasc
 
 The html file should should reference function implementation file before the test file - as the javascript files are loaded from top to bottom
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -269,11 +284,12 @@ The html file should should reference function implementation file before the te
 > Use Chrome developer tools' console to see why it's failing
 
 **In the task5.js file:**
-* create an implementation for the ```setBackgoundColor``` function
-	* remember it takes 2 parameters
-	* first one the element name
-	* second one the color that you will set the background to
-	* the function should set the background of the element specified to the color supplied.
+
+* create an implementation for the `setBackgoundColor` function
+    * remember it takes 2 parameters
+    * first one the element name
+    * second one the color that you will set the background to
+    * the function should set the background of the element specified to the color supplied.
 * refresh the page and see what happens
 * There should be no errors in Use Chrome developer tools'
 * and you should see an alert window displaying 'success'
@@ -296,15 +312,14 @@ Now using TDD create an Constructor Function (Class) that makes it easy to set t
 
 Using it should look like this"
 
-```
-   var rg = new RedOrGreen("myElement");
-   
-   rg.makeGreen();
-   // myElements backgound color should be green now
-   
-   rg.makeRed();
-   // myElements backgound should be red now
-   
+```javascript
+var rg = new RedOrGreen("myElement");
+
+rg.makeGreen();
+// myElements backgound color should be green now
+
+rg.makeRed();
+// myElements backgound should be red now
 ```
 
 Create these files:
@@ -320,7 +335,7 @@ In this task we would like to make it much easier to write code using TDD. What 
 
 We need something like this:
 
-```
+```javascript
 TestMyCode.run("testing hello world function", function(assert){
 	var result = helloWorld();
 	// is the result as we expected?
@@ -340,30 +355,32 @@ tdd_hello_world.js | the function under test
 red_green.js | reuse the function you wrote earlier
 
 So let's use TDD to create this code.
-* Copy the code from above into the ```tdd_test.js``` file
-* Create ```tdd.html``` 
+
+* Copy the code from above into the `tdd_test.js` file
+* Create `tdd.html`
  	* reference the html and css files from it.
  	* Create a 300x300px square
  	
 * Once done open tdd.html in Chrome and check the Developer tools to see what errors you are getting.
 
-You might notice that the ```TestMyCode``` object is non existent.
+You might notice that the `TestMyCode` object is non existent.
 
 There are a few things to think about:
-* a ```run``` method for the TestMyCode class: it takes two parameters - the name of the test and a function that should be executed
-* the ```assert``` function: it's passed into the test function 
+
+* a `run` method for the TestMyCode class: it takes two parameters - the name of the test and a function that should be executed
+* the `assert` function: it's passed into the test function
 	* it checks the test was successful, if the expected result was returned or not
 * Ensure that:
 	* if the expected result was returned: display a green square
 	* if the expected results was not returned: display a red square
-	* if there is an error/exception: display a red square - use ```try/catch``` exception handling in javascript
+	* if there is an error/exception: display a red square - use `try/catch` exception handling in javascript
 * Use an object literal to create this.
 
-**Refresh** ```tdd.html``` to see what errors you are getting.
+**Refresh** `tdd.html` to see what errors you are getting.
 
-In the ```tdd_hello_world.js``` file create a simple function that returns 'hello world!';
+In the `tdd_hello_world.js` file create a simple function that returns 'hello world!';
 
-**Refresh** ```tdd.html``` to see what errors you are getting.
+**Refresh** `tdd.html` to see what errors you are getting.
 
 By now you should be close to having a small TDD framework that allows you to test your code.
 Do you have a green block yet?
@@ -379,7 +396,7 @@ So you might not realise it, but you have now built a small Unit Testing framewo
 **So now**
 
 * Add support to run multiple tests:
-	* one can add multiple tests in ```tdd_test.js```	
+	* one can add multiple tests in `tdd_test.js`
 	* for each test added, a block should be displayed on the tdd.html screen
 		* green for a passing test
 		* red for a failing test
