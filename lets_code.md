@@ -52,7 +52,7 @@ The first square should be red and the second square should be green. Be sure th
 	<link rel="stylesheet" type="text/css" href="">
 
 	<style type="text/css">
-	<!-- CSS goes here -->
+	/* CSS goes here */
 	</style>
 </head>
 <body>
@@ -109,7 +109,7 @@ In a file called task2.html create a html page:
 
 	<link rel="stylesheet" type="text/css" href="">
 	<style type="text/css">
-	<!-- CSS goes here -->
+	/* CSS goes here */
 	</style>
 
 </head>
