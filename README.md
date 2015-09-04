@@ -7,6 +7,7 @@ We hope that you will enjoy this journey with us and that you will learn and app
 ## Assumptions
 
 This introduction assumes that you have completed both these courses in Codecademy:
+
  * [HTML & CSS](http://www.codecademy.com/en/tracks/web)
  * [Javascript](http://www.codecademy.com/en/tracks/javascript)
 
@@ -27,6 +28,7 @@ So now you know that you are not alone let's get going.
 So we would like you to register for a few online tools that we will be using at codeX. 
 
 **Please register and familiarise yourself with:**
+
 * http://www.github.com
 * http://stackoverflow.com
 * http://twitter.com
@@ -34,6 +36,7 @@ So we would like you to register for a few online tools that we will be using at
 You should spend about 10 mins on each site, seeing out what each does and checking out the different features.
 
 ### Tools of the trade
+
 Next steps are to get going with a few tools.
 Work your way through each of these exercises - they're challenging but rewarding!
 
