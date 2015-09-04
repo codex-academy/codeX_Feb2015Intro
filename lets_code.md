@@ -24,14 +24,14 @@ You will be presented with a few different setup options, you need to follow the
 the parameters will be specific to your environment and you can copy and paste them into your RedAndGreen local directory in the terminal.  
 
 The command would look like this, with your own git username:
-	  
+
 	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
 
 Files:
 * as you do each task create the files in the 'RedAndGreen' folder
 * after each task remember to add your changes to git
 
-	  
+
 ## T1 - Create Red and Green Squares
 
 > This task requires HTML & CSS
@@ -48,9 +48,9 @@ The first square should be red and the second square should be green. Be sure th
 <html>
 <head>
 	<title>header!</title>
-	
+
 	<link rel="stylesheet" type="text/css" href="">
-	
+
 	<style type="text/css">
 	<!-- CSS goes here -->
 	</style>
@@ -74,12 +74,12 @@ Once you are done add your changes to git by using these commands:
 > This task requires HTML, CSS & Javascript
 
 **This task will require you to:**
-* add some button click event handlers using Javascript 
+* add some button click event handlers using Javascript
 * manipulate the CSS styling using the browser DOM
 
 **The DOM**
 
-> DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a 
+> DOM, stands for Document Object Model - this is an in memory representation of the elements contained in a
 > HTML document. One can add behaviour to a web page by writing some Javascript code to interact with a web page's DOM.
 
 **Basic DOM concepts**
@@ -94,9 +94,9 @@ What is the DOM?   | |http://eloquentjavascript.net/13_dom.html
 
 In a file called task2.html create a html page:
 * That displays two white squares that are 300px by 300px with a black border that is 5px thick.
-* create a button underneath each square. 
-* the button text under the first square should be 'Make red' and 'Make green' under the second square. 
-* when the button under the first square is pressed it should make the first square red. 
+* create a button underneath each square.
+* the button text under the first square should be 'Make red' and 'Make green' under the second square.
+* when the button under the first square is pressed it should make the first square red.
 * when the button under the second square is pressed it should make the second square green.
 
 **The HTML should look look something like this**
@@ -106,7 +106,7 @@ In a file called task2.html create a html page:
 <html>
 <head>
 	<title>header!</title>
-	
+
 	<link rel="stylesheet" type="text/css" href="">
 	<style type="text/css">
 	<!-- CSS goes here -->
@@ -133,14 +133,14 @@ Once you are done add your changes to git by using these commands:
 > This task requires HTML, CSS & Javascript
 
 Create 3 files:
-* task3.html - all html in here	
+* task3.html - all html in here
 * task3.css - all css in here
 * task3.js - all javascript in here
 
 Using the above 3 files create a web page:
 
 * that displays a white square that is 300px by 300px with a black border that is 5px thick
-* add two buttons under the square: one with text 'Make red' the other with 'Make green' 
+* add two buttons under the square: one with text 'Make red' the other with 'Make green'
 * when the 'Make red' button is pressed it should make the square red.
 * when the 'Make green' button is pressed it should make the square geen.
 
@@ -214,7 +214,7 @@ After the above steps the work you've done so far will be available online at: `
 Using seperate file fon html, css & javascript called task4.html, task4.css & task4.js create a web page:
 
 * that displays a green square that is 300px by 300px with a black border that is 5px thick.
-* add one button under the square one with text 'Make red' 
+* add one button under the square one with text 'Make red'
 * when the buttons is pressed the square should go red
 	* and the button text should change to 'Make green'
 * when pressed the square should go green
@@ -297,11 +297,11 @@ The html file should should reference function implementation file before the te
 Congratulations! You just created your first function using TDD!
 
 ***So TDD (Test Driven Development) works like this:***
-* write test code that will fail - it depends on non-existent code 
+* write test code that will fail - it depends on non-existent code
 * run the test - it should fail
 * write some code that will fix the failing code
 * run the test again - it should work now
-* make your code better if needed, without changing the actual behaviour (google this: code refactoring) 
+* make your code better if needed, without changing the actual behaviour (google this: code refactoring)
 * start the process again, by adding a new test...
 
 **Remember to commit to GIT**
@@ -360,7 +360,7 @@ So let's use TDD to create this code.
 * Create `tdd.html`
  	* reference the html and css files from it.
  	* Create a 300x300px square
- 	
+
 * Once done open tdd.html in Chrome and check the Developer tools to see what errors you are getting.
 
 You might notice that the `TestMyCode` object is non existent.
@@ -400,8 +400,8 @@ So you might not realise it, but you have now built a small Unit Testing framewo
 	* for each test added, a block should be displayed on the tdd.html screen
 		* green for a passing test
 		* red for a failing test
-	* you will need to dynamically add elements to the DOM. Use this as a reference point: http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/ 
-	
+	* you will need to dynamically add elements to the DOM. Use this as a reference point: http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
+
 * Display which test passed or failed
 * If a test fails display the error / exception on the screen in the block for the test
 * Display how many tests passed or failed - only display this once.
@@ -411,6 +411,3 @@ So you might not realise it, but you have now built a small Unit Testing framewo
 **Now head over to**
 
 Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions. You should be using the Unit testing framework you created in Task 7 & 8 to test the first 5 functions.
- 
-
-
