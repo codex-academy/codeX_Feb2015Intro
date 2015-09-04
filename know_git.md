@@ -11,17 +11,15 @@ to write code.
 Luckily there is a category of tools called Version Control tools, which allow you to manage the files that you create and change everyday as a software developer.
 You can manage your own files, and also share your files and changes to your files with your colleagues - and even other people on the internet.
 
- * The version control software we will be using is called `git`. This program will run on your laptop. 
- * `http://github.com` is the site where you will publish and share your code on the internet.
+ * The version control software we will be using is called `git`. This program will run on your laptop.
+ * [GitHub](http://github.com) is the site where you will publish and share your code on the internet.
 
 You will get to know git and github very well in the next few months!
 
 ### Some Exercises
 
-To get a quick introduction to github, do the online tutorial at: https://try.github.io
+To get a quick introduction to github, do the online tutorial at [Try GitHub](https://try.github.io).
 
-Once you have a better idea of what git is all about, try it on your local machine by following the instructions
-over here: https://github.com/jlord/git-it
+Once you have a better idea of what git is all about, try it on your local machine by following the instructions over at [Git-it](https://github.com/jlord/git-it).
 
-Now you should know a lot more about version control using `git`. Should you ever have any questions you can 
-refer back to the info on this page, as well as the useful guide at: http://jlord.us/git-it/ ... or there is always Google!
+Now you should know a lot more about version control using `git`. Should you ever have any questions you can refer back to the info on this page, as well as the useful guide at: [Git-it](https://github.com/jlord/git-it) ... or there is always Google!
