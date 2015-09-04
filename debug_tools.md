@@ -2,7 +2,7 @@
 
 ## Debugging
 
-As you write software you will make mistakes a lot. 
+As you write software you will make mistakes a lot.
 
 Sometimes it will be easy to find a problem or bug, sometimes you will struggle... sometimes it will feel impossible. Relax! This is an integral part of programming... It will drive you semi insane, but it is a skill you need to master.
 
@@ -18,10 +18,10 @@ They include:
 To access them:
 
 * Click on the three lines to the right of the address bar in your browser now
-* Then click 'More tools' 
+* Then click 'More tools'
 * Look for 'Developer Tools' and 'Javascript Console' in the options available.
-* When you click either one of them a screen will appear at the bottom of the screen in Chrome. 
- 
+* When you click either one of them a screen will appear at the bottom of the screen in Chrome.
+
 These will allow you to do various useful things such as:
 
 * Identify HTML Elements by clicking in the browser
@@ -30,7 +30,7 @@ These will allow you to do various useful things such as:
 * Look at the Javascript source code used by your web page
 * Add a breakpoint in Javascript sourcecode
 
-This is just to mention a few of the things you can do in Google Developer tools. Other browsers have similar capabilities, but some times you need to install a browser plugin. In Firefox you can install the excellent Firebug plugin to get developer support. 
+This is just to mention a few of the things you can do in Google Developer tools. Other browsers have similar capabilities, but some times you need to install a browser plugin. In Firefox you can install the excellent Firebug plugin to get developer support.
 
 ### Sublime Text
 
