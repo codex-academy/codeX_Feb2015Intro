@@ -25,9 +25,12 @@ the parameters will be specific to your environment and you can copy and paste t
 
 The command would look like this, with your own git username:
 
-	  git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
+```
+git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
+```
 
 Files:
+
 * as you do each task create the files in the 'RedAndGreen' folder
 * after each task remember to add your changes to git
 
@@ -74,6 +77,7 @@ Once you are done add your changes to git by using these commands:
 > This task requires HTML, CSS & Javascript
 
 **This task will require you to:**
+
 * add some button click event handlers using Javascript
 * manipulate the CSS styling using the browser DOM
 
@@ -84,8 +88,8 @@ Once you are done add your changes to git by using these commands:
 
 **Basic DOM concepts**
 
- Concept          |   Code snippet     | Link
-------------------|--------------------|-----------------
+ Concept | Code snippet | Link
+--- | --- | ---
 Basic DOM overview | | [The Basics of JavaScript DOM Manipulation](http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/)
 Finding DOM element - like a DIV element based on a ID name | `var element = document.getElementById('id')` |  [JavaScript HTML DOM Elements](http://www.w3schools.com/js/js_htmldom_elements.asp)
 Styling elements from Javascript | `element.style.backgroundColor = 'red';` | [HTML DOM Style Object](http://www.w3schools.com/jsref/dom_obj_style.asp)
@@ -144,7 +148,6 @@ Using the above 3 files create a web page:
 * add two buttons under the square: one with text 'Make red' the other with 'Make green'
 * when the 'Make red' button is pressed it should make the square red.
 * when the 'Make green' button is pressed it should make the square geen.
-
 
 **The html should look like this**
 
@@ -217,9 +220,9 @@ Using seperate file fon html, css & javascript called task4.html, task4.css & ta
 * that displays a green square that is 300px by 300px with a black border that is 5px thick.
 * add one button under the square one with text 'Make red'
 * when the buttons is pressed the square should go red
-	* and the button text should change to 'Make green'
+		* and the button text should change to 'Make green'
 * when pressed the square should go green
-	* and the button text should change to 'Make red'
+		* and the button text should change to 'Make red'
 * when pressed the square goes red again
 * this process should be repeated over and over
 
@@ -248,6 +251,7 @@ TDD starts like this:
 **Ok let's do that quickly:**
 
 Create files called:
+
 * task5.html
 * task5.css
 * two javascript files calles task5.js & task5_tests.js.
@@ -287,10 +291,10 @@ The html file should should reference function implementation file before the te
 **In the task5.js file:**
 
 * create an implementation for the `setBackgoundColor` function
-    * remember it takes 2 parameters
-    * first one the element name
-    * second one the color that you will set the background to
-    * the function should set the background of the element specified to the color supplied.
+		* remember it takes 2 parameters
+		* first one the element name
+		* second one the color that you will set the background to
+		* the function should set the background of the element specified to the color supplied.
 * refresh the page and see what happens
 * There should be no errors in Use Chrome developer tools'
 * and you should see an alert window displaying 'success'
@@ -298,6 +302,7 @@ The html file should should reference function implementation file before the te
 Congratulations! You just created your first function using TDD!
 
 ***So TDD (Test Driven Development) works like this:***
+
 * write test code that will fail - it depends on non-existent code
 * run the test - it should fail
 * write some code that will fix the failing code
@@ -324,6 +329,7 @@ rg.makeRed();
 ```
 
 Create these files:
+
 * red_green.js
 * red_green_test.js
 * red_green.html
@@ -346,8 +352,8 @@ TestMyCode.run("testing hello world function", function(assert){
 
 For this task you will need to create these files:
 
-  File name | What this file is for
-------------|-----------------------
+File name | What this file is for
+--- | ---
 tdd.js | The TestMyCode implementation will be in here
 tdd_test.js | TestMyCode will be tested in here
 tdd.html | Bring all the files together & test executed from here
@@ -359,9 +365,8 @@ So let's use TDD to create this code.
 
 * Copy the code from above into the `tdd_test.js` file
 * Create `tdd.html`
- 	* reference the html and css files from it.
- 	* Create a 300x300px square
-
+		* reference the html and css files from it.
+		* Create a 300x300px square
 * Once done open tdd.html in Chrome and check the Developer tools to see what errors you are getting.
 
 You might notice that the `TestMyCode` object is non existent.
@@ -370,11 +375,11 @@ There are a few things to think about:
 
 * a `run` method for the TestMyCode class: it takes two parameters - the name of the test and a function that should be executed
 * the `assert` function: it's passed into the test function
-	* it checks the test was successful, if the expected result was returned or not
+		* it checks the test was successful, if the expected result was returned or not
 * Ensure that:
-	* if the expected result was returned: display a green square
-	* if the expected results was not returned: display a red square
-	* if there is an error/exception: display a red square - use `try/catch` exception handling in javascript
+		* if the expected result was returned: display a green square
+		* if the expected results was not returned: display a red square
+		* if there is an error/exception: display a red square - use `try/catch` exception handling in javascript
 * Use an object literal to create this.
 
 **Refresh** `tdd.html` to see what errors you are getting.
@@ -390,19 +395,18 @@ Try it with a different function other that the helloWorld one. Make sure that y
 
 **Remember to commit to GIT**
 
-##T8 Unit Testing Framework
+## T8 Unit Testing Framework
 
 So you might not realise it, but you have now built a small Unit Testing framework. It has it limitations though - it can only test one function at a time, and it is not telling you what you are testing or how many tests have failed or passed.
 
 **So now**
 
 * Add support to run multiple tests:
-	* one can add multiple tests in `tdd_test.js`
-	* for each test added, a block should be displayed on the tdd.html screen
-		* green for a passing test
-		* red for a failing test
-	* you will need to dynamically add elements to the DOM. Use this as a reference point:[http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/](The Basics of JavaScript DOM Manipulation)
-
+		* one can add multiple tests in `tdd_test.js`
+		* for each test added, a block should be displayed on the tdd.html screen
+				* green for a passing test
+				* red for a failing test
+		* you will need to dynamically add elements to the DOM. Use this as a reference point:[http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/](The Basics of JavaScript DOM Manipulation)
 * Display which test passed or failed
 * If a test fails display the error / exception on the screen in the block for the test
 * Display how many tests passed or failed - only display this once.
