@@ -86,13 +86,14 @@ Once you are done add your changes to git by using these commands:
 
  Concept          |   Code snippet     | Link
 ------------------|--------------------|-----------------
-Basic DOM overview | |http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
-Finding DOM element - like a DIV element based on a ID name | `var element = document.getElementById('id')` |  http://www.w3schools.com/js/js_htmldom_elements.asp
-Styling elements from Javascript | `element.style.backgroundColor = 'red';` | http://www.w3schools.com/jsref/dom_obj_style.asp
-Styling elements from Javascript | `element.addEventListener('click', function(){});` | http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
-What is the DOM?   | |http://eloquentjavascript.net/13_dom.html
+Basic DOM overview | | [The Basics of JavaScript DOM Manipulation](http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/)
+Finding DOM element - like a DIV element based on a ID name | `var element = document.getElementById('id')` |  [JavaScript HTML DOM Elements](http://www.w3schools.com/js/js_htmldom_elements.asp)
+Styling elements from Javascript | `element.style.backgroundColor = 'red';` | [HTML DOM Style Object](http://www.w3schools.com/jsref/dom_obj_style.asp)
+Styling elements from Javascript | `element.addEventListener('click', function(){});` | [http://www.w3schools.com/jsref/prop_style_backgroundcolor.asp](Style backgroundColor Property)
+What is the DOM? | | [The Document Object Model](http://eloquentjavascript.net/13_dom.html)
 
 In a file called task2.html create a html page:
+
 * That displays two white squares that are 300px by 300px with a black border that is 5px thick.
 * create a button underneath each square.
 * the button text under the first square should be 'Make red' and 'Make green' under the second square.
@@ -400,7 +401,7 @@ So you might not realise it, but you have now built a small Unit Testing framewo
 	* for each test added, a block should be displayed on the tdd.html screen
 		* green for a passing test
 		* red for a failing test
-	* you will need to dynamically add elements to the DOM. Use this as a reference point: http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/
+	* you will need to dynamically add elements to the DOM. Use this as a reference point:[http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/](The Basics of JavaScript DOM Manipulation)
 
 * Display which test passed or failed
 * If a test fails display the error / exception on the screen in the block for the test
