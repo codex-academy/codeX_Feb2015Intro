@@ -1,4 +1,4 @@
-#Command line
+# Command line
 
 ## The command line
 
@@ -6,16 +6,16 @@ As a skilled software developer you need to get familiar and comfortable with th
 
 Let's try out the terminal window, open a terminal window and let's try out a few commands.
 
-* type ```pwd``` then press enter - what does it do?
-* type ```ls``` then press enter - what does it do?
-* type ```mkdir the_terminal``` then press enter - what does it do?
-* type ```ls``` then press enter - to see what you just did?
-* type ```cd the_terminal``` then press enter
-* now try ```pwd``` & ```ls``` again
-* you can use the ```touch``` command to create a new file in the folder you created.
-* to create a new fille called 'my_file.txt' type ```touch my_file.txt```
+* type `pwd` then press enter - what does it do?
+* type `ls` then press enter - what does it do?
+* type `mkdir the_terminal` then press enter - what does it do?
+* type `ls` then press enter - to see what you just did?
+* type `cd the_terminal` then press enter
+* now try `pwd` & `ls` again
+* you can use the `touch` command to create a new file in the folder you created.
+* to create a new fille called `my_file.txt` type `touch my_file.txt`
 * you can now edit that file from the command line using a text editor called nano
-* to edit the text file you created type ```nano my_file.txt``` in the terminal
+* to edit the text file you created type `nano my_file.txt` in the terminal
 * edit the file - add 'hello cape town' in the file and save the content of the file.
 * now exit nano
 * you should be back in the terminal now.
