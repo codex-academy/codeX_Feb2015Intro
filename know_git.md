@@ -1,20 +1,16 @@
 ## Git - Version Control
 
-As a software developer you will be writing your code in files and you will not only be doing that on your own,
-but with other team members. So you will need some way of keeping track of what you have done - and what your teammates
-have done.
+As a software developer you will be writing code not only on your own, but with other team members. You will need some way of keeping track of what you have done, and what your teammates have done.
 
-Have you ever lost your changes in a Word document or text file, because you lost the USB Drive or
-because you saved over a file by accident? These are the kind of things that might start happening as you start
-to write code.
+Have you ever lost your changes in a Word document or text file, because you lost the USB Drive or because you saved over a file by accident? These are the kind of things that might start happening as you start to write code.
 
-Luckily there is a category of tools called Version Control tools, which allow you to manage the files that you create and change everyday as a software developer.
-You can manage your own files, and also share your files and changes to your files with your colleagues - and even other people on the internet.
+Luckily there is a category of tools called Version Control Software which allow you to manage the files that you create and change everyday as a software developer.
+You can manage your own files, share your files and changes with your colleagues, and even share them other people on the internet.
 
-* The version control software we will be using is called `git`. This program will run on your laptop.
-* [GitHub](http://github.com) is the site where you will publish and share your code on the internet.
+* The Version Control Software we will be using is called git. This program will run on your laptop.
+* [GitHub](http://github.com) is the site where you will publish and share your code on the web.
 
-You will get to know git and github very well in the next few months!
+You will get to know git and GitHub very well in the next few months!
 
 ### Some Exercises
 
