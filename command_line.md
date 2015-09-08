@@ -22,6 +22,6 @@ Let's try out the terminal window, open a terminal window and let's try out a fe
 
 Congratulations you are now well on your way on mastering the command line.
 
-Now hop over http://linuxsurvival.com, and complete the first Modules 1 & 2.
+Now hop over [Linux Survival](http://linuxsurvival.com), and complete the first Modules 1 & 2.
 
 Complete Module 3 & 4 in your own time later, this will help you along even further to deepen your knowledge of the command line.

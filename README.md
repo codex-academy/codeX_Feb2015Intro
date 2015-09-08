@@ -29,9 +29,9 @@ So we would like you to register for a few online tools that we will be using at
 
 **Please register and familiarise yourself with:**
 
-* http://www.github.com
-* http://stackoverflow.com
-* http://twitter.com
+* [GitHub](http://www.github.com)
+* [Stack Overflow](http://stackoverflow.com)
+* [Twitter](http://twitter.com)
 
 You should spend about 10 mins on each site, seeing what each does and checking out the different features.
 
