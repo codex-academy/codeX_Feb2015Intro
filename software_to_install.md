@@ -6,7 +6,7 @@ As you already know, the command line allows us to run programs to complete some
 
 Ubuntu has a package manager  called `apt-get`which allows you to easily install software on a server or PC. 'Package' refers to all the files in the program you install on the computer.
 
-In a terminal window on Ubuntu type `apt-get` and press enter.
+In a terminal window on Ubuntu type `apt-get` and press enter. What do you see?
 
 > Using `sudo` we can install software as administrator. It will prompt you for a password
 
@@ -14,6 +14,7 @@ Before you do anything execute this command:
 
 ```sudo apt-get update```
 
+This tells `apt-get` to `update`: get information on the newest versions of packages.
 
 Now let's use `apt-get` to install some software  that we will need using the `apt-get install <package to install>`:
 
