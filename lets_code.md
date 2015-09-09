@@ -19,7 +19,7 @@ In GitHub create a new repository called 'RedAndGreen':
 
 You will be presented with a few different setup options, you need to follow the instructions under:
 
-  **...or push an existing repository from the command line**
+> ...or push an existing repository from the command line
 
 the parameters will be specific to your environment and you can copy and paste them into your RedAndGreen local directory in the terminal.  
 
@@ -29,51 +29,18 @@ The command would look like this, with your own git username:
 git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
 ```
 
-Files:
+As you do each task create the files in the 'RedAndGreen' folder.
 
-* as you do each task create the files in the 'RedAndGreen' folder
-* after each task remember to add your changes to git
+After each task remember to commit your changes using git.
 
-## Task 1
+## RedandGreen Tasks  
 
-[Create Red and Green Squares](t1-create-red-and-green-squares.md)
+Your first task is to [create red and green squares](t1-create-red-and-green-squares.md) using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to [colour the squares](t2-colour-the-squares.md) when you click buttons. For task 3, you'll build on that by using two buttons and having just [one square changing colours](t3-one-square-changing-colours.md).
 
-## Task 2
+Let's take a break from the JavaScript for a moment and [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages.
 
-[Colour the squares](t2-colour-the-squares.md)
+Back to the JavaScript. For task 4, you're going to use [one button to change the square's colours](t4-one-button-to-change-square-colours.md) back and forth. For task 5, you're going to [test your function](t5-test-your-function.md) (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and [test changing colours](t6-test-changing-colours.md). For task 7, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you [display test results](t7-display-test-results.md). For task 8, you'll expand on your framework and end up with your own [Unit Testing Framework](t8-unit-testing-framework.md).
 
-## Task 3
-
-[One square changing colours](t3-one-square-changing-colours.md)
-
-## Publishing
-
-[Publish your code to a website](publish-your-code-to-a-website.md)
-
-## Task 4
-
-[One button to change square colours](t4-one-button-to-change-square-colours.md)
-
-## Let's make navigation easier
-
-TODO - add steps to add a navigation menu that links to all the tasks they did in this project so far.
-
-## Task 5
-
-[Test your function](t5-test-your-function.md)
-
-## Task 6
-
-[Test changing colours](t6-test-changing-colours.md)
-
-## Task 7
-
-[Display Test Results](t7-display-test-results.md)
-
-##Task 8
-
-[Unit Testing Framework](t8-unit-testing-framework.md)
-
-**Now head over to**
+## Bite-sized Code Challenges
 
 Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions. You should be using the Unit testing framework you created in Task 7 & 8 to test the first 5 functions.
