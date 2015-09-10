@@ -37,7 +37,7 @@ After each task remember to commit your changes using git.
 
 Your first task is to create red and green squares using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
 
-* Task 1: [create red and green squares](t1-create-red-and-green-squares.md)
+* Task 1: [create red and green blocks](t1-create-red-and-green-blocks.md)
 * Task 2: [colour the squares](t2-colour-the-squares.md)
 * Task 3: [one square changing colours](t3-one-square-changing-colours.md)
 

@@ -1,13 +1,8 @@
-## T1 Create Red and Green Squares
+## T1 Create Red and Green Blocks
 
 > This task requires HTML & CSS
 
-In a file called task1.html create two squares that are 300px by 300px with a black border that is 5px thick.
-The first square should be red and the second square should be green. Be sure that your HTML file is properly formed - you can use the basic HTML template from Sublime Text for this as described above.
-
-> For this task create the CSS in a style tag in the head of the HTML file
-
-**The HTML should look look something like this**
+Create a file called `task1.html` that looks something like this:
 
 ```html
 <!DOCTYPE html>
@@ -27,7 +22,9 @@ The first square should be red and the second square should be green. Be sure th
 </html>
 ```
 
-Once you are done add your changes to git by using these commands:
+Now you'll write some CSS in the `style` tag in the `head` of the HTML file. Create two blocks that are `10em` wide. The first block should have a red background, and say "stop." The second block should have a green background, and say "go." Both blocks should have white text.
+
+Once you are done, add your changes to git by using these commands:
 
 * `git pull` to get any remote changes
 * `git status` to see what changed
