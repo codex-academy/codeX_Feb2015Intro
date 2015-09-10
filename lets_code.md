@@ -52,8 +52,6 @@ The first square should be red and the second square should be green. Be sure th
 <head>
 	<title>header!</title>
 
-	<link rel="stylesheet" type="text/css" href="">
-
 	<style type="text/css">
 	/* CSS goes here */
 	</style>
@@ -112,11 +110,9 @@ In a file called task2.html create a HTML page:
 <head>
 	<title>header!</title>
 
-	<link rel="stylesheet" type="text/css" href="">
 	<style type="text/css">
 	/* CSS goes here */
 	</style>
-
 </head>
 <body>
 	<!-- HTML goes here -->
@@ -156,6 +152,7 @@ Using the above 3 files create a web page:
 <html>
 <head>
 	<title>header!</title>
+  
 	<link rel="stylesheet" type="text/css" href="task3.css">
 	<script type="text/javascript" src="task3.js"></script>
 </head>
