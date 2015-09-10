@@ -35,11 +35,21 @@ After each task remember to commit your changes using git.
 
 ## RedandGreen Tasks  
 
-Your first task is to [create red and green squares](t1-create-red-and-green-squares.md) using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to [colour the squares](t2-colour-the-squares.md) when you click buttons. For task 3, you'll build on that by using two buttons and having just [one square changing colours](t3-one-square-changing-colours.md).
+Your first task is to create red and green squares using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
+
+* Task 1: [create red and green squares](t1-create-red-and-green-squares.md)
+* Task 2: [colour the squares](t2-colour-the-squares.md)
+* Task 3: [one square changing colours](t3-one-square-changing-colours.md)
 
 Let's take a break from the JavaScript for a moment and [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages.
 
-Back to the JavaScript. For task 4, you're going to use [one button to change the square's colours](t4-one-button-to-change-square-colours.md) back and forth. For task 5, you're going to [test your function](t5-test-your-function.md) (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and [test changing colours](t6-test-changing-colours.md). For task 7, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you [display test results](t7-display-test-results.md). For task 8, you'll expand on your framework and end up with your own [Unit Testing Framework](t8-unit-testing-framework.md).
+Back to the JavaScript. For task 4, you're going to use one button to change the square's colours back and forth. For task 5, you're going to (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and test changing colours. For task 7, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you display test results. For task 8, you'll expand on your framework and end up with your own Unit Testing Framework.
+
+* Task 4: [one button to change the square's colours](t4-one-button-to-change-square-colours.md)
+* Task 5: [test your function](t5-test-your-function.md)
+* Task 6: [test changing colours](t6-test-changing-colours.md)
+* Task 7: [display test results](t7-display-test-results.md)
+* Task 8: [Unit Testing Framework](t8-unit-testing-framework.md)
 
 ## Bite-sized Code Challenges
 
