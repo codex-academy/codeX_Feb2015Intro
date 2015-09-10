@@ -15,17 +15,17 @@ If you haven't completed them yet it's not a train smash! Just complete them bef
 
 ## Now what?
 
-After completing all those courses in Codecademy you must be feeling quite chuffed with yourself - and with good reason! You put in the hours, you argued your way through the challenges and you have the badges to show. Now we are going to remove the side wheels, so things might start feeling a bit unstable. You will be unsure on what code to use where, but this is all pretty normal.
+After completing all those courses in Codecademy you must be feeling quite chuffed with yourself. And with good reason! You put in the hours, you argued your way through the challenges and you have the badges to show for it. Now we are going to remove the side wheels, so things might start feeling a bit unstable. You will be unsure of what code to use where, but this is all pretty normal.
 
-Just to prove to you that you are not alone in [see this quickly](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard). It's quite a long, but interesting read.
+Just to prove to you that you are not alone in this, have a look at [Why Learning to Code is So Damn Hard (What every beginner absolutely needs to know about the journey ahead)](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard). It's quite a long, but interesting, read.
 
-So now you know that you are not alone let's get going.
+Now you know that you are not alone let's get going.
 
 ## Overview
 
 ### Register
 
-So we would like you to register for a few online tools that we will be using at codeX.
+We would like you to register for a few online tools that we will be using at codeX.
 
 **Please register and familiarise yourself with:**
 
@@ -37,16 +37,16 @@ You should spend about 10 mins on each site, seeing what each does and checking 
 
 ### Tools of the trade
 
-Next steps are to get going with a few tools.
-Work your way through each of these exercises - they're challenging but rewarding!
+Next steps are to get you going with a few tools.
+Work your way through each of these exercises: they're challenging but rewarding!
 
-* Master the command line - [Command line mastery 101](command_line.md)
-* Some software to install - [Install these](software_to_install.md)
-* Version control with Git - [Get to know Git](know_git.md)
+* [Mastering the command line](command_line.md)
+* [Some software to install](software_to_install.md)
+* [Version control with Git](know_git.md)
 
 ## Let's code
 
-So far most of the code you have written might have been inside of Codecademy, that is about to change!
+So far most of the code you have written might have been inside of Codecademy. That's about to change!
 
 In reality most software is written in text editors or a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Sublime Text](http://www.sublimetext.com/) and later you will be introduced to an IDE called [Eclipse](https://eclipse.org/).
 
@@ -57,9 +57,7 @@ In reality most software is written in text editors or a more advanced text edit
 
 Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions.
 
-
-
 ### JavaScript on the command line
 
 So far all the JavaScript that you've written was running inside of the web browser.
-By using Node.js (or Node just for short) you can run JavaScript programs from the terminal, without the need for a web browser. This allows you to use JavaScript to write some programs that don't depend on the web browser - for example, accessing data in a database. Soon we will be using it to program web servers and even to do some robotics.
+By using [Node.js](http://nodejs.org/) (or Node just for short) you can run JavaScript programs from the terminal, without the need for a web browser. This allows you to use JavaScript to write some programs that don't depend on the web browser, such as accessing data in a database. Soon we will be using it to program web servers and even to do some robotics.
