@@ -124,7 +124,7 @@ In a file called task2.html create a HTML page:
 <body>
 	<!-- HTML goes here -->
 	<script type="text/javascript">
-		//JavaScript code goes here at the bottom to ensure the DOM is loaded...
+		// JavaScript code at the bottom to ensure that the DOM is loaded
 	</script>
 </body>
 </html>
@@ -161,10 +161,10 @@ Using the above 3 files create a web page:
 	<title>header!</title>
 
 	<link rel="stylesheet" type="text/css" href="task3.css">
-	<script type="text/javascript" src="task3.js"></script>
 </head>
 <body>
 	<!-- HTML goes here -->
+	<script type="text/javascript" src="task3.js"></script>
 </body>
 </html>
 ```
@@ -260,14 +260,14 @@ The HTML file should should reference function implementation file before the te
 <head>
 	<title>header!</title>
 	<link rel="stylesheet" type="text/css" href="task5.css">
-	<script type="text/javascript" src="task5.js"></script>
-	<script type="text/javascript" src="task5_tests.js"></script>
 </head>
 <body>
 	<!-- HTML goes here -->
 	<!-- style this in the CSS to be 300 x 300 px and to have a red background -->
 	<div id="mySquare">
 	</div>
+	<script type="text/javascript" src="task5.js"></script>
+	<script type="text/javascript" src="task5_tests.js"></script>
 </body>
 </html>
 ```
