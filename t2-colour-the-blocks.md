@@ -1,6 +1,6 @@
 ## T2 Colour the blocks
 
-> This task requires HTML, CSS & JavaScript
+> This task requires HTML, CSS, and JavaScript
 
 This task will require you to:
 
