@@ -34,4 +34,4 @@ Once you are done, add your changes to git by using these commands:
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T2 Colour the squares](t2-colour-the-squares.md)
+[Go back to Let's Code](lets_code.md) or [go on T2 Colour the blocks](t2-colour-the-blocks.md)
