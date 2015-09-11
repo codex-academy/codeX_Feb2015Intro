@@ -46,8 +46,8 @@ The start of your HTML file should look look something like this. This time we'r
 <html>
 <head>
 	<title>header!</title>
-   <!-- Your CSS goes in the style.css file -->
-	<link rel="stylesheet" type="text/css" href="style.css">
+   <!-- Your CSS goes in the task2.css file -->
+	<link rel="stylesheet" type="text/css" href="task2.css">
 </head>
 <body>
 	<!-- HTML goes here -->
