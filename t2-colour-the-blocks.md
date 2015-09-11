@@ -66,4 +66,4 @@ Once you are done, add your changes to git by using these commands:
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T3 One square changing colours](t3-one-square-changing-colours.md)
+[Go back to Let's Code](lets_code.md) or [go on T3 One block changing colours](t3-one-block-changing-colours.md)
