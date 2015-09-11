@@ -31,7 +31,7 @@ The start of your HTML file should look look something like this. This time we'r
 </html>
 ```
 
-Once you're done, add your changes to git by using the same commands as you used for the tasks above.
+Once you're done, add your changes to git by using the same commands as you used for the previous tasks.
 
 ---
 
