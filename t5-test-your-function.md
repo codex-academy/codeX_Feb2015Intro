@@ -6,10 +6,10 @@ When we write the test before we write the code, it's called Test-Driven Develop
 
 * Add a test for the code you want to write.
 * Run the test. It will fail because you haven't written your code yet!
-		* The status of the test is **failing**, so we make it **red**.
+	* The status of the test is **failing**, so we make it **red**.
 * Write (just enough) code to make the test pass.
 * Run the test again. It should pass!
-		* The status of the test is now **passing**, so we make it **green**.
+	* The status of the test is now **passing**, so we make it **green**.
 * Make your code better, without changing the behaviour. This is called code refactoring.
 
 ### Tasks
@@ -47,7 +47,7 @@ The start of your HTML file should look look something like this.
 In the `task5_tests.js` file:
 
 * Check that the current colour of the background of the 'testresult' is red. We can use the DOM to do that.
-		* Have a look at [getComputedStyle](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle) for how to use JavaScript to find out what styles are being applied to an element.
+	* Have a look at [getComputedStyle](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle) for how to use JavaScript to find out what styles are being applied to an element.
 * Now call `displayTestColour('testresult', 'passing');`.
 * Now check that the background of 'testresult' is set to green.
 * Use `console.log` to display 'success' if the background colour of 'testresult' is equal to green, otherwise display 'failure'.
@@ -72,10 +72,10 @@ So TDD (Test Driven Development) works like this:
 
 * Add a test for the code you want to write.
 * Run the test. It will fail because you haven't written your code yet!
-		* The state of the test is **red**: it's **failing**.
+	* The state of the test is **red**: it's **failing**.
 * Write (just enough) code to make the test pass.
 * Run the test again. It should pass!
-		* the state of the test is now **green**: it's **passing**.
+	* the state of the test is now **green**: it's **passing**.
 * Make your code better, without changing the behaviour. This is called code refactoring.
 
 ---
