@@ -1,6 +1,6 @@
 ## T7 Display Test Results
 
-In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test and a way to see whether the test passed or not by displaying a red or green block.
+In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test. We also want a way to see whether the test passed or not, and what the reason was if it failed. We'll do this by displaying a red or green block, using JavaScript to dynamically insert the blocks and the text. Use this as a reference point: [The Basics of JavaScript DOM Manipulation](http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/)
 
 We need something like this:
 
@@ -20,7 +20,7 @@ For this task you will need to create these files:
 --- | ---
 `tdd.js` | The TestMyCode implementation will be in here
 `tdd_test.js` | TestMyCode will be tested in here
-`tdd.html` | Bring all the files together & test executed from here
+`tdd.html` | Bring all the files together and execute the tests from here
 `tdd.css` | Make the HTML look nice
 `tdd_hello_world.js` | the function under test
 `red_green.js` | reuse the function you wrote earlier
@@ -54,9 +54,9 @@ In the `tdd_hello_world.js` file create a simple function that returns 'hello wo
 
 By now you should be close to having a small TDD framework that allows you to test your code.
 
-Do you have a green block yet? If not change your function to return the expected result, to make a green block display.
+Do you have a green block yet? If not, change your function to return the expected result, to make a green block display.
 
-Try it with a different function other than the helloWorld one. Make sure that you can get a red block if the function returns an unexpected result.
+Try it with a different function other than the `helloWorld` one. Make sure that you can get a red block if the function returns an unexpected result.
 
 **Remember to commit to Git**
 
