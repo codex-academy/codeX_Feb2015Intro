@@ -14,7 +14,7 @@ When we write the test before we write the code, it's called Test-Driven Develop
 
 ### Tasks
 
-In this task you need to write a function called `displayTestColour`. It takes two parameters: the id of an element and the test status. Calling this function should like this: `displayTestColour('testresult', 'passing');`.
+In this task you need to write a function called `setTestStatus`. It takes two parameters: the id of an element and the test status. Calling this function should like this: `setTestStatus('testresult', 'passing');`.
 
 Create files called:
 
@@ -44,19 +44,29 @@ The start of your HTML file should look look something like this.
 </html>
 ```
 
+The web page should:
+
+* display the div `#testresult` `10em` wide and have a grey background
+* have one `button` under the block that says 'Make red'
+
+
 In the `task5_tests.js` file:
 
-* Check that the current colour of the background of the 'testresult' is red. We can use the DOM to do that.
-	* Have a look at [getComputedStyle](https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle) for how to use JavaScript to find out what styles are being applied to an element.
-* Now call `displayTestColour('testresult', 'passing');`.
-* Now check that the background of 'testresult' is set to green.
-* Use `console.log` to display 'success' if the background colour of 'testresult' is equal to green, otherwise display 'failure'.
+* Check that the div with id `testresult` doesn't have the class `failing` or `passing`.
+* Check that the `button` has the text 'Make red'.
+* Call `setTestStatus('testresult', 'failing');`.
+* Check that `#testresult` has the class `failing`. The CSS should give it a red background.
+* Check that the `button` has the text 'Make green'.
+* Call `setTestStatus('testresult', 'passing');`.
+* Check that `#testresult` has the class `passing`. The CSS should give it a green background.
+* Check that the `button` has the text 'Make red'.
+* Use `console.log` to display 'success' if `testresult` has the class `passing`, otherwise display 'failure'.
 
-It should fail because we haven't written the `displayTestColour` function yet! Use Chrome Developer Tools console to see the why it's failing.
+It should fail because we haven't written the `setTestStatus` function yet! Use Chrome Developer Tools console to see the why it's failing.
 
 In the `task5.js` file:
 
-* Create an implementation for the `displayTestColour` function.
+* Create an implementation for the `setTestStatus` function.
     * Remember that it takes 2 parameters: the id of an element and the test status.
 * Refresh the page and see what happens.
 * There should be no errors in Chrome DevTools.
