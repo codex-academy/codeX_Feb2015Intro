@@ -37,7 +37,7 @@ In a file called task2.html create an HTML page that:
     * the `button` text under the first block should be 'Make red'
     * the `button` text under the second block should be 'Make green'
 * adds a `class` to the first block that makes the background red when the `button` under the first block is pressed
-* adds a `class` to the second block that makes the background red when the `button` under the second block is pressed
+* adds a `class` to the second block that makes the background green when the `button` under the second block is pressed
 
 The start of your HTML file should look look something like this. This time we're putting our CSS in a different file, and adding some JavaScript in a `script` tag.
 
