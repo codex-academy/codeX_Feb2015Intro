@@ -48,8 +48,8 @@ Back to the JavaScript. For task 4, you're going to use one button to change the
 * Task 4: [one button to change the blocks's colours](t4-one-button-to-change-block-colours.md)
 * Task 5: [test your function](t5-test-your-function.md)
 * Task 6: [test changing colours](t6-test-changing-colours.md)
-* Task 7: [display test results](t7-display-test-results.md)
-* Task 8: [Unit Testing Framework](t8-unit-testing-framework.md)
+* Task 8: [display test results](t8-display-test-results.md)
+* Task 9: [Unit Testing Framework](t9s-unit-testing-framework.md)
 
 ## Bite-sized Code Challenges
 

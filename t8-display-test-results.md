@@ -1,6 +1,6 @@
-## T7 Display Test Results
+## T8 Display Test Results
 
-In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test. We also want a way to see whether the test passed or not, and what the reason was if it failed. We'll do this by displaying a red or green block, using JavaScript to dynamically insert the blocks and the text. Use this as a reference point: [The Basics of JavaScript DOM Manipulation](http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/)
+In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test. We also want a way to see whether the test passed or not, and what the reason was if it failed. We'll do this by displaying a red or green block, using JavaScript to dynamically insert the blocks and the text.
 
 We need something like this:
 
@@ -62,4 +62,4 @@ Try it with a different function other than the `helloWorld` one. Make sure that
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T8 Unit Testing Framework](t8-unit-testing-framework.md)
+[Go back to Let's Code](lets_code.md) or [go on T9 Unit Testing Framework](t9-unit-testing-framework.md)
