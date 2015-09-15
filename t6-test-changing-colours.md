@@ -5,7 +5,7 @@ Now using TDD to create a Constructor Function (also called a Class) that makes 
 Using it should look like this:
 
 ```javascript
-var fp = new setTestStatus("testresult");
+var fp = new SetTestStatus("testresult");
 
 fp.testFailed();
 // `#testresult` should have the HTML class "failing" now
