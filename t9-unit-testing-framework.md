@@ -4,7 +4,7 @@ You might not realise it, but you have now built a small Unit Testing framework.
 
 ### Multiple tests
 
-* Add support to run multiple tests. You'll need to dynamically add elements to the DOM. Use this as a reference point: [The Basics of JavaScript DOM Manipulation](http://callmenick.com/2014/03/27/basics-javascript-dom-manipulation/). Write code so that
+* Add support to run multiple tests. You'll need to dynamically add elements to the DOM. Write code so that
     * you can add multiple tests in `tdd_test.js`
     * for each test added, a block is displayed in `tdd.html` whic is
         * green for a passing test
