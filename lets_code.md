@@ -35,21 +35,41 @@ After each task remember to commit your changes using git.
 
 ## RedandGreen Tasks  
 
-Your first task is to create red and green squares using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
+Your first task is to create red and green blocks using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
 
-* Task 1: [create red and green squares](t1-create-red-and-green-squares.md)
-* Task 2: [colour the squares](t2-colour-the-squares.md)
-* Task 3: [one square changing colours](t3-one-square-changing-colours.md)
+* Task 1: [create red and green blocks](t1-create-red-and-green-blocks.md)
+* Task 2: [colour the block](t2-colour-the-blocks.md)
+* Task 3: [one block changing colours](t3-one-square-changing-colours.md)
 
-Let's take a break from the JavaScript for a moment and [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages.
+### Short break from the JavaScript
 
-Back to the JavaScript. For task 4, you're going to use one button to change the square's colours back and forth. For task 5, you're going to (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and test changing colours. For task 7, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you display test results. For task 8, you'll expand on your framework and end up with your own Unit Testing Framework.
+Let's [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages, so that you can easily demo your work.
 
-* Task 4: [one button to change the square's colours](t4-one-button-to-change-square-colours.md)
+Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, and 3. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.
+
+### Back to the JavaScript!
+
+For task 4, you're going to use one button to change the square's colours back and forth. For task 5, you're going to (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and test changing colours.
+
+* Task 4: [one button to change the blocks's colours](t4-one-button-to-change-block-colours.md)
 * Task 5: [test your function](t5-test-your-function.md)
 * Task 6: [test changing colours](t6-test-changing-colours.md)
-* Task 7: [display test results](t7-display-test-results.md)
-* Task 8: [Unit Testing Framework](t8-unit-testing-framework.md)
+
+### Short break from the JavaScript
+
+Let's republish your work to the web using GitHub Pages. Look at your `gh-pages` branch. Does it have your work from tasks 4, 5, and 6?
+
+When you want to bring two branches have some commits the same and some different, you need to perform a `merge` to bring things up to date. Have a look at the `git merge` section of [this tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-merge).
+
+Update your `index.html` to link to your task 4, 5, and 6 pages. Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.  
+
+### Back to the JavaScript!
+
+In Task 7 you'll be adding blocks to the page using JavaScript. For task 8, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you display test results. For task 9, you'll expand on your framework and end up with your own Unit Testing Framework.
+
+* Task 7: [add blocks to the page](t7-add-blocks-to-the-page.md)
+* Task 8: [display test results](t8-display-test-results.md)
+* Task 9: [Unit Testing Framework](t9s-unit-testing-framework.md)
 
 ## Bite-sized Code Challenges
 
