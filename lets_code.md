@@ -59,12 +59,7 @@ For task 4, you're going to use one button to change the square's colours back a
 
 Update your `index.html` to link to your task 4, 5, and 6 pages. Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.  
 
-Now let's republish your work to the web using GitHub Pages. Look at your `gh-pages` branch. Does it have your work from tasks 4, 5, and 6? How can you check this?
-
-You can use `git branch` to check what branch you are on, `git log` to see a list of commits you have made, and `git checkout <branchname>` to switch between branches.
-
-When two branches have diverged (they have some commits the same and some different), you can perform a `merge` to bring the two together. Have a look at the `git merge` section of [this tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-merge). Merge your `master` branch into your `gh-pages` and republish your work. How did you [publish your work the first time](publish-your-code-to-a-website.md)?
-
+Now let's [republish your work to the web](republish-your-work-to-the-web.md) using GitHub Pages.
 
 ### Back to the JavaScript!
 
