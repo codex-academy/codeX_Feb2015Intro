@@ -26,7 +26,7 @@ the parameters will be specific to your environment and you can copy and paste t
 The command would look like this, with your own git username:
 
 ```
-git remote add origin git@github.com:<your_git_username>/RedAndGreen.git
+git remote add origin git@github.com:<username>/RedAndGreen.git
 ```
 
 As you do each task create the files in the 'RedAndGreen' folder.
@@ -57,11 +57,14 @@ For task 4, you're going to use one button to change the square's colours back a
 
 ### Short break from the JavaScript
 
-Let's republish your work to the web using GitHub Pages. Look at your `gh-pages` branch. Does it have your work from tasks 4, 5, and 6?
-
-When you want to bring two branches have some commits the same and some different, you need to perform a `merge` to bring things up to date. Have a look at the `git merge` section of [this tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-merge).
-
 Update your `index.html` to link to your task 4, 5, and 6 pages. Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.  
+
+Now let's republish your work to the web using GitHub Pages. Look at your `gh-pages` branch. Does it have your work from tasks 4, 5, and 6? How can you check this?
+
+You can use `git branch` to check what branch you are on, `git log` to see a list of commits you have made, and `git checkout <branchname>` to switch between branches.
+
+When two branches have diverged (they have some commits the same and some different), you can perform a `merge` to bring the two together. Have a look at the `git merge` section of [this tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-merge). Merge your `master` branch into your `gh-pages` and republish your work. How did you [publish your work the first time](publish-your-code-to-a-website.md)?
+
 
 ### Back to the JavaScript!
 
