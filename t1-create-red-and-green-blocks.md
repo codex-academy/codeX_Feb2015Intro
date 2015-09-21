@@ -10,8 +10,6 @@ Create a file called `task1.html` that looks something like this:
 <head>
 	<title>header!</title>
 
-	<link rel="stylesheet" type="text/css" href="">
-
 	<style type="text/css">
 	/* CSS goes here */
 	</style>
