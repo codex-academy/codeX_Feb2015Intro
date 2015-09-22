@@ -10,7 +10,9 @@ Using separate files for HTML, CSS, and JavaScript called `task4.html`, `task4.c
 4. makes the background of the block green when the `button` under the block is pressed, by changing the `class` of the block, and changes the text to 'Make red'
 5. lets steps 3 and 4 be repeated
 
-Once done, add your changes to git by using the same commands you used in previous tasks.
+Once you're done, add your changes to git by using similar commands to the ones you used for the previous tasks.
+
+You can use `git add .` to add all files in the current directory (except any files listed in your `.gitignore`).
 
 ---
 

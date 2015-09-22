@@ -31,7 +31,11 @@ The start of your HTML file should look look something like this. This time we'r
 </html>
 ```
 
-Once you're done, add your changes to git by using the same commands as you used for the previous tasks.
+Once you're done, add your changes to git by using similar commands to the ones you used for the previous tasks. If you want to add multiple files at the same time, you can do it like this:
+
+```
+git add task3.html task3.css task3.js
+```
 
 ---
 
