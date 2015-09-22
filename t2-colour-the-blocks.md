@@ -61,7 +61,8 @@ The start of your HTML file should look look something like this. This time we'r
 Once you are done, add your changes to git by using these commands:
 
 * `git status` to see what changed
-* `git add task2.html task2.css` to add `task2.html` and `task2.css` to git. (Alternatively, you can use `git add .` to add all files in the current directory)
+* `git add task2.html` to add `task2.html` to git.
+* `git add task2.css` to add `task2.css` to git.
 * `git commit -m "task 2 is done"` to commit your changes
 * `git push -u origin master` to push your changes to GitHub
 

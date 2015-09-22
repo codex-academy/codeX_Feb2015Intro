@@ -47,6 +47,8 @@ Let's [publish your code to a website](publish-your-code-to-a-website.md) using 
 
 Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, and 3. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.
 
+Let's learn a bit more about another part of git: [ignoring files](gitignore.md).
+
 ### Back to the JavaScript!
 
 For task 4, you're going to use one button to change the square's colours back and forth. For task 5, you're going to (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and test changing colours.

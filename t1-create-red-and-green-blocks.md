@@ -38,7 +38,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Now run `git add task1.html` to track that file. That tells git about the file, and tells it to watch it for changes.
 
-If there files that you don't want git to track, don't add them using `git add`. For example: you might see `task1.html~`. That's a local back up file created by your computer, so you don't need to `git add` it. If you want to tell git to ignore a file forever, you can list it in a special `.gitignore` file.
+If there files that you don't want git to track, don't add them using `git add`. For example: you might see `task1.html~`. That's a local back up file created by your computer, so you don't need to `git add` it.
 
 To commit your changes to git, run `git commit -m "task 1 is done"`.
 
