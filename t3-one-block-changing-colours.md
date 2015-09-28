@@ -10,10 +10,12 @@ Create 3 files:
 
 Using the above 3 files create a web page that:
 
-* displays a block that is `10em` wide and has a grey background
+* displays a block that is `10em` wide and has a grey background.
 * has two `button`s under the block: one that says 'Make red' and one that says 'Make green'
-* makes the background of the block red when the `button` under the block is pressed, by changing the `class` of the block
-* makes the background of the block green when the `button` under the block is pressed, by changing the `class` of the block
+* makes the background of the block red when the `button` under the block is pressed, by changing the `class` of the block, and adds text to the block so that it says "stop."
+* makes the background of the block green when the `button` under the block is pressed, by changing the `class` of the block, and adds text to the block so that it says "go."
+
+Have a look at [innerHTML](http://www.w3schools.com/jsref/prop_html_innerhtml.asp) for how to change the text of the block.
 
 The start of your HTML file should look look something like this. This time we're putting our CSS and our JavaScript in different files.
 

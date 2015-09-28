@@ -6,8 +6,8 @@ Using separate files for HTML, CSS, and JavaScript called `task4.html`, `task4.c
 
 1. displays a block that is `10em` wide and has a grey background
 2. has one `button` under the block that says 'Make red'
-3. makes the background of the block red when the `button` under the block is pressed, by changing the `class` of the block, and changes the text to 'Make green'
-4. makes the background of the block green when the `button` under the block is pressed, by changing the `class` of the block, and changes the text to 'Make red'
+3. makes the background of the block red when the `button` under the block is pressed, by changing the `class` of the block, changes the button text to 'Make green', and adds text to the block so that it says "stop."
+4. makes the background of the block green when the `button` under the block is pressed, by changing the `class` of the block, changes the button text to 'Make red', and adds text to the block so that it says "go."
 5. lets steps 3 and 4 be repeated
 
 Once you're done, add your changes to git by using similar commands to the ones you used for the previous tasks.
