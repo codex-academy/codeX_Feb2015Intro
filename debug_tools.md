@@ -26,19 +26,20 @@ These will allow you to do various useful things such as:
 
 These are just a few of the things you can do in Chrome's DevTools. Other browsers have similar capabilities, but sometimes you need to install a plugin. In Firefox you can install the excellent Firebug plugin to get developer support.
 
-### Sublime Text
+### Text Editor
 
-Sublime Text editor is a text editor with lots of nice features which make your life as a developer much easier.
+[Atom](https://atom.io/) is a text editor with lots of nice features which make your life as a developer much easier. (Another popular editor is [Sublime Text](http://www.sublimetext.com/). It's free to download and try, but you need to buy a license for continued use.)
 
-A few of those features includes:
-* Basic code completion - based on content in your file
+A few of those features include:
+
+* Basic code completion, based on content in your file
 * Syntax highlighting
 * HTML tag completion
 * HTML file basic templates
 
 Let's try some things:
 
-* Create a file called index.html, and open it in Sublime text
+* Create a file called index.html, and open it in your text editor
 * At the first line in the file type `html`
 * Press `tab`
 * What happened?
