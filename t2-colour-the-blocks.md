@@ -32,7 +32,7 @@ For adding and removing classes, have a look at:
 
 In a file called task2.html create an HTML page that:
 
-* displays two blocks that are `10em` wide and have a grey background
+* displays two blocks that are `10em` wide and have a grey background. The first block should have a red background, and say "stop." The second block should have a green background, and say "go."
 * has a `button` underneath each block
     * the `button` text under the first block should be 'Make red'
     * the `button` text under the second block should be 'Make green'
