@@ -35,6 +35,8 @@ After each task remember to commit your changes using git.
 
 ## RedandGreen Tasks  
 
+We'll be making some web pages with HTML, CSS, and JavaScript. Have a quick look at [the web triangle](the-web-triangle.md) for some information about the structure of web pages.
+
 Your first task is to create red and green blocks using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
 
 * Task 1: [create red and green blocks](t1-create-red-and-green-blocks.md)
