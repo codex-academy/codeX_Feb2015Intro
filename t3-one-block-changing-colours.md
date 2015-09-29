@@ -41,4 +41,4 @@ git add task3.html task3.css task3.js
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T4 One button to change block colours](t4-one-button-to-change-block-colours.md)
+Now it's time for a [Short break from the JavaScript](lets_code.md#short-break-from-the-javascript).

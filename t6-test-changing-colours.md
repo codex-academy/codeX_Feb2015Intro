@@ -26,4 +26,4 @@ Create these files:
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T7 Display Test Results](t7-display-test-results.md)
+Time for another [Short break from the JavaScript](lets_code.md#short-break-from-the-javascript-1).
