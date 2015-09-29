@@ -9,9 +9,7 @@ This task will require you to:
 
 ### The DOM
 
-DOM stands for Document Object Model. This is an in memory representation of the elements contained in an HTML document. You use HTML for the **content** of your pages and CSS for the **presentation** of your pages. You can add **behaviour** to a web page by writing some JavaScript code to interact with a web page's DOM.
-
-Eloquent JavaScript provides a good introduction to the DOM in [Chapter 13: The Document Object Model](http://eloquentjavascript.net/13_dom.html).
+DOM stands for Document Object Model. This is an in memory representation of the elements contained in an HTML document. Eloquent JavaScript provides a good introduction to the DOM in [Chapter 13: The Document Object Model](http://eloquentjavascript.net/13_dom.html).
 
 You can find elements in the DOM by their `id` or by their `class`. There are a couple ways of doing this. Have a read about these on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/) about:
 
