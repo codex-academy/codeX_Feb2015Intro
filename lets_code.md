@@ -71,7 +71,7 @@ In Task 7 you'll be adding blocks to the page using JavaScript. For task 8, you'
 
 * Task 7: [add blocks to the page](t7-add-blocks-to-the-page.md)
 * Task 8: [display test results](t8-display-test-results.md)
-* Task 9: [Unit Testing Framework](t9s-unit-testing-framework.md)
+* Task 9: [Unit Testing Framework](t9-unit-testing-framework.md)
 
 ## Bite-sized Code Challenges
 
