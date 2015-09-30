@@ -46,4 +46,4 @@ To push your changes to GitHub, run `git push -u origin master`
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T2 Colour the blocks](t2-colour-the-blocks.md)
+[Go back to Let's Code](lets_code.md) or [go on T2 Colour the blocks](colour-the-blocks.md)

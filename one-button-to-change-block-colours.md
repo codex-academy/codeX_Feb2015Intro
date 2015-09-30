@@ -16,4 +16,4 @@ You can use `git add .` to add all files in the current directory (except any fi
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T5 Test your function](t5-test-your-function.md)
+[Go back to Let's Code](lets_code.md) or [go on T5 Test your function](test-your-function.md)

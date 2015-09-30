@@ -23,4 +23,4 @@ Have a look at [The Basics of JavaScript DOM Manipulation](http://callmenick.com
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T8 Display Test Results](t8-display-test-results.md)
+[Go back to Let's Code](lets_code.md) or [go on T8 Display Test Results](display-test-results.md)

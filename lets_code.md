@@ -39,9 +39,9 @@ We'll be making some web pages with HTML, CSS, and JavaScript. Have a quick look
 
 Your first task is to create red and green blocks using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
 
-* Task 1: [create red and green blocks](t1-create-red-and-green-blocks.md)
-* Task 2: [colour the block](t2-colour-the-blocks.md)
-* Task 3: [one block changing colours](t3-one-square-changing-colours.md)
+* Task 1: [create red and green blocks](create-red-and-green-blocks.md)
+* Task 2: [colour the block](colour-the-blocks.md)
+* Task 3: [one block changing colours](one-square-changing-colours.md)
 
 ### Short break from the JavaScript
 
@@ -55,9 +55,9 @@ Let's learn a bit more about another part of git: [ignoring files](gitignore.md)
 
 For task 4, you're going to use one button to change the square's colours back and forth. For task 5, you're going to (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and test changing colours.
 
-* Task 4: [one button to change the blocks's colours](t4-one-button-to-change-block-colours.md)
-* Task 5: [test your function](t5-test-your-function.md)
-* Task 6: [test changing colours](t6-test-changing-colours.md)
+* Task 4: [one button to change the blocks's colours](one-button-to-change-block-colours.md)
+* Task 5: [test your function](test-your-function.md)
+* Task 6: [test changing colours](test-changing-colours.md)
 
 ### Short break from the JavaScript
 
@@ -69,9 +69,9 @@ Now let's [republish your work to the web](republish-your-work-to-the-web.md) us
 
 In Task 7 you'll be adding blocks to the page using JavaScript. For task 8, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you display test results. For task 9, you'll expand on your framework and end up with your own Unit Testing Framework.
 
-* Task 7: [add blocks to the page](t7-add-blocks-to-the-page.md)
-* Task 8: [display test results](t8-display-test-results.md)
-* Task 9: [Unit Testing Framework](t9s-unit-testing-framework.md)
+* Task 7: [add blocks to the page](add-blocks-to-the-page.md)
+* Task 8: [display test results](display-test-results.md)
+* Task 9: [Unit Testing Framework](unit-testing-framework.md)
 
 ## Bite-sized Code Challenges
 
