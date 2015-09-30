@@ -1,8 +1,8 @@
-## T4 One button to change block colours
+## T5 One button to change block colours
 
 > This task requires HTML, CSS, and JavaScript
 
-Using separate files for HTML, CSS, and JavaScript called `task4.html`, `task4.css`, and `task4.js` create a web page that:
+Using separate files for HTML, CSS, and JavaScript called `task5.html`, `task5.css`, and `task5.js` create a web page that:
 
 1. displays a block that is `10em` wide and has a grey background
 2. has one `button` under the block that says 'Make red'
@@ -16,4 +16,4 @@ You can use `git add .` to add all files in the current directory (except any fi
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T5 Test your function](test-your-function.md)
+[Go back to Let's Code](lets_code.md) or [go on T6 Test your function](test-your-function.md)

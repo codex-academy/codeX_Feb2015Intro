@@ -1,4 +1,4 @@
-## T7 Add blocks to the page
+## T8 Add blocks to the page
 
 Now lets's look at how we can add things to the DOM with JavaScript. We'll need this for the next task. Create a page that has has a `div` with the `id` `testresults`. Using TDD, create a function that
 
@@ -23,4 +23,4 @@ Have a look at [The Basics of JavaScript DOM Manipulation](http://callmenick.com
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T8 Display Test Results](display-test-results.md)
+[Go back to Let's Code](lets_code.md) or [go on T9 Display Test Results](display-test-results.md)

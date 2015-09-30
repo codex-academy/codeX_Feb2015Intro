@@ -1,4 +1,4 @@
-## T6 Test changing colours
+## T7 Test changing colours
 
 Now using TDD to create a Constructor Function (also called a Class) that makes it easy to set the Test Colour. Call the function setTestStatus. The constructor function should take the element id as a parameter. It should have two functions called `testFailed` and `testPassed`
 

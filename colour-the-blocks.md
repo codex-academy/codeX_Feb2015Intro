@@ -4,8 +4,7 @@
 
 This task will require you to:
 
-* add some button click event handlers using JavaScript
-* manipulate the styling by adding classes
+* manipulate the styling by adding classes.
 
 ### The DOM
 
@@ -17,10 +16,6 @@ You can find elements in the DOM by their `id` or by their `class`. There are a 
 * [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
 * [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 
-To handle clicks on buttons, you can use:
-
-* [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-
 For adding and removing classes, have a look at:
 
   * [className](https://developer.mozilla.org/en-US/docs/Web/API/Element/className)
@@ -31,11 +26,8 @@ For adding and removing classes, have a look at:
 In a file called task2.html create an HTML page that:
 
 * displays two blocks that are `10em` wide and have a grey background. The first block should have a red background, and say "stop." The second block should have a green background, and say "go."
-* has a `button` underneath each block
-    * the `button` text under the first block should be 'Make red'
-    * the `button` text under the second block should be 'Make green'
-* adds a `class` to the first block that makes the background red when the `button` under the first block is pressed
-* adds a `class` to the second block that makes the background green when the `button` under the second block is pressed
+* uses JavaScript to add a `class` to the first block that makes the background red
+* uses JavaScript to add a `class` to the second block that makes the background green
 
 The start of your HTML file should look look something like this. This time we're putting our CSS in a different file, and adding some JavaScript in a `script` tag.
 
@@ -66,4 +58,4 @@ Once you are done, add your changes to git by using these commands:
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T3 One block changing colours](one-block-changing-colours.md)
+[Go back to Let's Code](lets_code.md) or [go on T3 Colour the blocks with buttons](colour-the-block-with-buttons.md)

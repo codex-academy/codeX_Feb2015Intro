@@ -1,4 +1,4 @@
-## T5 Test your function
+## T6 Test your function
 
 In all the previous tasks we checked our code by running it in the browser and checking if it worked as it should. What about writing a test (in code) to check if things are working instead?
 
@@ -18,9 +18,9 @@ In this task you need to write a function called `setTestStatus`. It takes two p
 
 Create files called:
 
-* `task5.html`
-* `task5.css`
-* `task5.js` and `task5_tests.js`
+* `task6.html`
+* `task6.css`
+* `task6.js` and `task6_tests.js`
 
 The HTML file should reference the two separate JavaScript files: the one JavaScript file will contain our function implementation and the other will contain the test code. The HTML file should should reference the function implementation file before the test file because JavaScript files are loaded from top to bottom.
 
@@ -31,15 +31,15 @@ The start of your HTML file should look look something like this.
 <html>
 <head>
 	<title>header!</title>
-	<link rel="stylesheet" type="text/css" href="task5.css">
+	<link rel="stylesheet" type="text/css" href="task6.css">
 </head>
 <body>
 	<!-- HTML goes here -->
 	<!-- Use classes to style #testresult to be 10em wide and have a red background -->
 	<div id="testresult">
 	</div>
-	<script type="text/javascript" src="task5.js"></script>
-	<script type="text/javascript" src="task5_tests.js"></script>
+	<script type="text/javascript" src="task6.js"></script>
+	<script type="text/javascript" src="task6_tests.js"></script>
 </body>
 </html>
 ```
@@ -50,7 +50,7 @@ The web page should:
 * have one `button` under the block that says 'Make red'
 
 
-In the `task5_tests.js` file:
+In the `task6_tests.js` file:
 
 * Check that the div with id `testresult` doesn't have the class `failing` or `passing`.
 * Check that the `button` has the text 'Make red'.
@@ -64,7 +64,7 @@ In the `task5_tests.js` file:
 
 It should fail because we haven't written the `setTestStatus` function yet! Use Chrome Developer Tools console to see the why it's failing.
 
-In the `task5.js` file:
+In the `task6.js` file:
 
 * Create an implementation for the `setTestStatus` function.
     * Remember that it takes 2 parameters: the id of an element and the test status.
@@ -90,4 +90,4 @@ So TDD (Test Driven Development) works like this:
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T6 Test changing colours](t6-test-changing-colours.md)
+[Go back to Let's Code](lets_code.md) or [go on T7 Test changing colours](test-changing-colours.md)

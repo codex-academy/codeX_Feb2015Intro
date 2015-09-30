@@ -1,4 +1,4 @@
-## T8 Display Test Results
+## T9 Display Test Results
 
 In this task we would like to make it much easier to write code using TDD. What we need is a place to write the code under test. We also want a way to see whether the test passed or not, and what the reason was if it failed. We'll do this by displaying a red or green block, using JavaScript to dynamically insert the blocks and the text.
 
@@ -62,4 +62,4 @@ Try it with a different function other than the `helloWorld` one. Make sure that
 
 ---
 
-[Go back to Let's Code](lets_code.md) or [go on T9 Unit Testing Framework](unit-testing-framework.md)
+[Go back to Let's Code](lets_code.md) or [go on T10 Unit Testing Framework](unit-testing-framework.md)

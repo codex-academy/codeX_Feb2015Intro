@@ -1,12 +1,12 @@
-## T3 One block changing colours
+## T4 One block changing colours
 
 > This task requires HTML, CSS, and JavaScript
 
 Create 3 files:
 
-* `task3.html` - all HTML in here
-* `task3.css` - all CSS in here
-* `task3.js` - all JavaScript in here
+* `task4.html` - all HTML in here
+* `task4.css` - all CSS in here
+* `task4.js` - all JavaScript in here
 
 Using the above 3 files create a web page that:
 
@@ -36,7 +36,7 @@ The start of your HTML file should look look something like this. This time we'r
 Once you're done, add your changes to git by using similar commands to the ones you used for the previous tasks. If you want to add multiple files at the same time, you can do it like this:
 
 ```
-git add task3.html task3.css task3.js
+git add task4.html task4.css task4.js
 ```
 
 ---

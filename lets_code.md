@@ -41,38 +41,39 @@ Your first task is to create red and green blocks using HTML and CSS, and push y
 
 * Task 1: [create red and green blocks](create-red-and-green-blocks.md)
 * Task 2: [colour the block](colour-the-blocks.md)
-* Task 3: [one block changing colours](one-square-changing-colours.md)
+* Task 3: [colour the block with buttons](colour-the-block-with-buttons.md)
+* Task 4: [one block changing colours](one-block-changing-colours.md)
 
 ### Short break from the JavaScript
 
 Let's [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages, so that you can easily demo your work.
 
-Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, and 3. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.
+Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, 3, and 4. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). Add a link to `index.html` at the bottom of each html file.
 
 Let's learn a bit more about another part of git: [ignoring files](gitignore.md).
 
 ### Back to the JavaScript!
 
-For task 4, you're going to use one button to change the square's colours back and forth. For task 5, you're going to (by writing more code!). For task 6, you're going to write JavaScript in a slightly different way, and test changing colours.
+For task 5, you're going to use one button to change the square's colours back and forth. For task 6, you're going to (by writing more code!). For task 7, you're going to write JavaScript in a slightly different way, and test changing colours.
 
-* Task 4: [one button to change the blocks's colours](one-button-to-change-block-colours.md)
-* Task 5: [test your function](test-your-function.md)
-* Task 6: [test changing colours](test-changing-colours.md)
+* Task 5: [one button to change the blocks's colours](one-button-to-change-block-colours.md)
+* Task 6: [test your function](test-your-function.md)
+* Task 7: [test changing colours](test-changing-colours.md)
 
 ### Short break from the JavaScript
 
-Update your `index.html` to link to your task 4, 5, and 6 pages. Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.  
+Update your `index.html` to link to your task 5, 6, and 7 pages. Add a link to `index.html` at the bottom of each html file.  
 
 Now let's [republish your work to the web](republish-your-work-to-the-web.md) using GitHub Pages.
 
 ### Back to the JavaScript!
 
-In Task 7 you'll be adding blocks to the page using JavaScript. For task 8, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you display test results. For task 9, you'll expand on your framework and end up with your own Unit Testing Framework.
+In task 8 you'll be adding blocks to the page using JavaScript. For task 9, you're going to start writing a framework to make testing your code easier, and you'll write code that lets you display test results. For task 10, you'll expand on your framework and end up with your own Unit Testing Framework.
 
-* Task 7: [add blocks to the page](add-blocks-to-the-page.md)
-* Task 8: [display test results](display-test-results.md)
-* Task 9: [Unit Testing Framework](unit-testing-framework.md)
+* Task 8: [add blocks to the page](add-blocks-to-the-page.md)
+* Task 9: [display test results](display-test-results.md)
+* Task 10: [Unit Testing Framework](unit-testing-framework.md)
 
 ## Bite-sized Code Challenges
 
-Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions. You should be using the Unit testing framework you created in Task 7 & 8 to test the first 5 functions.
+Now head over to [53 functions](https://github.com/codex-academy/53functions/blob/master/README.md) and write some functions. You should be using the Unit testing framework you created above to test the first 5 functions.
