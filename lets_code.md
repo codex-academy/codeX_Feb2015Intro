@@ -61,7 +61,7 @@ For task 4, you're going to use one button to change the square's colours back a
 
 ### Short break from the JavaScript
 
-Update your `index.html` to link to your task 4, 5, and 6 pages. Add a link to `index.html` at the bottom of `task1.html`, `task2.html`, and `task3.html`.  
+Update your `index.html` to link to your task 4, 5, and 6 pages. In `index.html`, add links to `task1.html`, `task2.html`, and `task3.html` at the bottom of the page.  
 
 Now let's [republish your work to the web](republish-your-work-to-the-web.md) using GitHub Pages.
 
