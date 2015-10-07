@@ -49,10 +49,9 @@ The web page should:
 * display the div `#testresult` `10em` wide and have a grey background
 * have one `button` under the block that says 'Make red'
 
-
 In the `task5_tests.js` file:
 
-* Check that the div with id `testresult` doesn't have the class `failing` or `passing`.
+* Check that the div with id `testresult` doesn't have the class `failing` or `passing`. Use `console.log` to display a message that tells you what the result of the check was.
 * Check that the `button` has the text 'Make red'.
 * Call `setTestStatus('testresult', 'failing');`.
 * Check that `#testresult` has the class `failing`. The CSS should give it a red background.
@@ -60,7 +59,7 @@ In the `task5_tests.js` file:
 * Call `setTestStatus('testresult', 'passing');`.
 * Check that `#testresult` has the class `passing`. The CSS should give it a green background.
 * Check that the `button` has the text 'Make red'.
-* Use `console.log` to display 'success' if `testresult` has the class `passing`, otherwise display 'failure'.
+* Display 'success' if `testresult` has the class `passing`, otherwise display 'failure'.
 
 It should fail because we haven't written the `setTestStatus` function yet! Use Chrome Developer Tools console to see the why it's failing.
 
