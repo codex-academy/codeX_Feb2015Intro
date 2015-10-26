@@ -14,7 +14,7 @@ When we write the test before we write the code, it's called Test-Driven Develop
 
 ### Tasks
 
-In this task you need to write a function called `setTestStatus`. It takes two parameters: the id of an element and the test status. Calling this function should like this: `setTestStatus('testresult', 'passing');`.
+In this task you need to write a function called `setTestStatus`. It takes three parameters: the id of the element; the id of the button; the test status. Calling this function should like this: `setTestStatus('testResult', 'testButton' 'passing');`.
 
 Create files called:
 
@@ -52,10 +52,10 @@ The web page should:
 In the `task5_tests.js` file:
 
 * Check that the div with id `testresult` doesn't have the class `failing` or `passing`. Use `console.log` to display a message that tells you what the result of the check was.
-* Check that the `button` has the text 'Make red'.
+* Check that the `button` has the text 'Make red'. Use `console.log` to display a message that tells you what the result of the check was.
 * Call `setTestStatus('testresult', 'failing');`.
 * Check that `#testresult` has the class `failing`. The CSS should give it a red background.
-* Check that the `button` has the text 'Make green'.
+* Check that the `button` has the text 'Make green'. Use `console.log` to display a message that tells you what the result of the check was.
 * Call `setTestStatus('testresult', 'passing');`.
 * Check that `#testresult` has the class `passing`. The CSS should give it a green background.
 * Check that the `button` has the text 'Make red'.
@@ -66,7 +66,7 @@ It should fail because we haven't written the `setTestStatus` function yet! Use 
 In the `task5.js` file:
 
 * Create an implementation for the `setTestStatus` function.
-    * Remember that it takes 2 parameters: the id of an element and the test status.
+    * Remember that it takes three parameters: the id of the element; the id of the button; the test status.
 * Refresh the page and see what happens.
 * There should be no errors in Chrome DevTools.
 * You should see a console message displaying 'success'.
