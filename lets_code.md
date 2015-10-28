@@ -47,7 +47,7 @@ Your first task is to create red and green blocks using HTML and CSS, and push y
 
 Let's [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages, so that you can easily demo your work.
 
-Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, and 3. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). In `index.html`, add links to `task1.html`, `task2.html`, and `task3.html` at the bottom of the page.
+Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, and 3. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). In `task1.html`, `task2.html`, and `task3.html` add a (hyper)link back to `index.html`.
 
 Let's learn a bit more about another part of git: [ignoring files](gitignore.md).
 
@@ -61,7 +61,7 @@ For task 4, you're going to use one button to change the square's colours back a
 
 ### Short break from the JavaScript
 
-Update your `index.html` to link to your task 4, 5, and 6 pages. In `index.html`, add links to `task1.html`, `task2.html`, and `task3.html` at the bottom of the page.  
+Update your `index.html` to link to your task 4, 5, and 6 pages. Remember to add a link to `task4.html`, `task5.html`, and `task6.html` that links back to `index.html`.  
 
 Now let's [republish your work to the web](republish-your-work-to-the-web.md) using GitHub Pages.
 
