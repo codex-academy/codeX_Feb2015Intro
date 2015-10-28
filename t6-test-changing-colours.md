@@ -1,6 +1,6 @@
 ## T6 Test changing colours
 
-Now using TDD to create a Constructor Function (also called a Class) that makes it easy to set the Test Colour. Call the function setTestStatus. The constructor function should take the element id as a parameter. It should have two functions called `testFailed` and `testPassed`
+Now using TDD to create a Constructor Function (also called a Class) that makes it easy to set the Test Colour of a block. Call the function `SetTestStatus`. The constructor function should take the element id as a parameter. It should have two functions called `testFailed` and `testPassed`
 
 Using it should look like this:
 
@@ -9,11 +9,11 @@ var fp = new SetTestStatus("testresult");
 
 fp.testFailed();
 // `#testresult` should have the HTML class "failing" now
-// the `button` should have the text "Make green"
+// set the text in the block to 'Failed'
 
 fp.testPassed();
 // ``#testresult` should have the HTML class "passing" now
-// the `button` should have the text "Make red"
+// set the text in the block to 'Passed'
 ```
 
 Create these files:
@@ -21,6 +21,8 @@ Create these files:
 * fail_pass.js
 * fail_pass_test.js
 * fail_pass.html
+
+Remember to test that the `SetTestStatus` functions methods are changing the DOM elements as expected.
 
 **Remember to commit to Git**
 
