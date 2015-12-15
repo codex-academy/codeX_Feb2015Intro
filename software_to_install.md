@@ -32,5 +32,5 @@ Note: There will be a flash drive available so that you don't need to download t
 
 Install these programs now:
 
-* Sublime Text
-* Google Chrome
+* [Atom Editor](http://atom.io/)
+* [Google Chrome browser](https://www.google.co.za/chrome/browser/desktop/index.html)
