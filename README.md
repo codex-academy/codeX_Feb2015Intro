@@ -48,7 +48,7 @@ Work your way through each of these exercises: they're challenging but rewarding
 
 So far most of the code you have written might have been inside of Codecademy. That's about to change!
 
-In reality most software is written in text editors or a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Sublime Text](http://www.sublimetext.com/) and later you will be introduced to an IDE called [Eclipse](https://eclipse.org/).
+In reality most software is written in text editors or a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Atom](https://atom.io/).
 
 * Learn how to find problems in your code using [Debugging & Tools](debug_tools.md)
 * Let's get going and [do some coding now](lets_code.md)
