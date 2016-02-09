@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Software to install
 
 ## Installing from the command line, using a package manager

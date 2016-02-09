@@ -1,4 +1,8 @@
-# codeX Setup Intro 2015
+---
+layout: default
+---
+
+# codeX Setup Intro
 
 A big welcome to Project codeX!
 
@@ -40,9 +44,9 @@ You should spend about 10 mins on each site, seeing what each does and checking 
 Next steps are to get you going with a few tools.
 Work your way through each of these exercises: they're challenging but rewarding!
 
-* [Mastering the command line](command_line.md)
-* [Some software to install](software_to_install.md)
-* [Version control with Git](know_git.md)
+* [Mastering the command line](command_line.html)
+* [Some software to install](software_to_install.html)
+* [Version control with Git](know_git.html)
 
 ## Let's code
 
@@ -50,7 +54,7 @@ So far most of the code you have written might have been inside of Codecademy. T
 
 In reality most software is written in text editors or a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Atom](https://atom.io/).
 
-* Learn how to find problems in your code using [Debugging & Tools](debug_tools.md)
+* Learn how to find problems in your code using [Debugging & Tools](debug_tools.html)
 * Let's get going and [do some coding now](http://taxi.projectcodex.co)
 
 ### Katas using 53 functions

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Git Ignore
 
 You won't always want to add every file in a directory to your git repository. Extra files like local backups, local caches of files, variables that just apply to your terminal set up don't need to be added to your git repository: they're only needed on your machine.

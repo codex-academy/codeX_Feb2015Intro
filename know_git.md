@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Git - Version Control
 
 As a software developer you will be writing code not only on your own, but with other team members. You will need some way of keeping track of what you have done, and what your teammates have done.
@@ -19,3 +23,7 @@ To get a quick introduction to github, do the online tutorial [Try GitHub](https
 Once you have a better idea of what git is all about, try it on your local machine by following the instructions at [Git It](https://github.com/jlord/git-it)
 
 Now you should know a lot more about version control using `git`. Should you ever have any questions you can refer back to the info on this page, as well as the useful Git It guide... or there is always Google!
+
+### SSH Key
+
+Are you still typing in your username and password when you `git push` to GitHub? If so, let's fix that by [Adding a new SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux). Once that's done, you can just `git push` and your code will fly from your machine to the internet.

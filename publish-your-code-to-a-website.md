@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 ## Publish your code to a website
 
-Now we're going to publish your work to a website, using [GitHub Pages](https://pages.github.com/). If you have a git branch called `gh-pages` in a repository that you have pushed to GitHub, GitHub will publish the static HTML, CSS, and JavaScript for you at at `<username>.github.io`. You can use this for any static content, but not for apllications that require a server.
+Now we're going to publish your work to a website, using [GitHub Pages](https://pages.github.com/). If you have a git branch called `gh-pages` in a repository that you have pushed to GitHub, GitHub will publish the static HTML, CSS, and JavaScript for you at at `<username>.github.io`. You can use this for any static content, but not for applications that require a server.
 
 ## Branches
 
@@ -37,14 +41,10 @@ To push this branch to github type:
 git push origin gh-pages
 ```
 
-GitHub notices that you've pushed a branch called `gh-pages`, takes the HTML, CSS, and JavaScript, and publishes it. This can take a minute or two. Your RedAndGreen work is now published at https://&lt;username&gt;.github.io/RedAndGreen.
+GitHub notices that you've pushed a branch called `gh-pages`, takes the HTML, CSS, and JavaScript, and publishes it. This can take a minute or two. Your work is now published at https://USERNAME.github.io/REPOSITORYNAME.
 
 After you've done this you should checkout the master branch again by doing:
 
 ```
 git checkout master
 ```
-
----
-
-[Go back to Let's Code](lets_code.md)
