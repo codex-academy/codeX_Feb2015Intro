@@ -7,7 +7,7 @@
 
 # Site settings
 title: codeX Setup Intro
-baseurl: /codeX_Setup_Intro
+# baseurl: /
 
 # Build settings
 markdown: kramdown
