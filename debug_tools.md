@@ -7,6 +7,8 @@ As you write software you will make mistakes a lot.
 
 Sometimes it will be easy to find a problem or bug, and sometimes you will struggle. Sometimes it will feel impossible. Relax! This is an integral part of programming. It will drive you semi-insane, but it is a skill you need to master.
 
+Error messages can be scary (especailly when they are big and red and take up half the screen). Actually, they are your new best friend. Usually the error message is trying to be helpful. Often, it will tell you exactly where the error is (what file, what line number), and sometimes it will even suggest a solution.
+
 A bug in software development refers to a problem. If a program has a bug it means that it has an issue which stops it from working, or it doesn't work as we expect. Finding bugs in JavaScript can sometimes be frustrating, to say the least. Luckily the Chrome web browser comes with some tools that help us find the problems in our code: Developer Tools and the JavaScript Console.
 
 To access them:
