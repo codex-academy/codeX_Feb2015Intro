@@ -34,7 +34,26 @@ Sometimes we need to download and install programs directly, rather than using `
 
 Note: There will be a flash drive available so that you don't need to download these programs.
 
-Install these programs now:
+Install [Google Chrome browser](https://www.google.co.za/chrome/browser/desktop/index.html). It has great developer tools that we'll be using.
 
-* [Atom Editor](http://atom.io/)
-* [Google Chrome browser](https://www.google.co.za/chrome/browser/desktop/index.html)
+Now let's install the [Atom Editor](http://atom.io/).
+
+[How to install Atom editor in Ubuntu 14.04](https://codeforgeek.com/2014/09/install-atom-editor-ubuntu-14-04/) has instructions for the best way to do this. They are:
+
+1. Add the repository
+
+```
+sudo add-apt-repository ppa:webupd8team/atom
+```
+
+2. Update the repository
+
+```
+sudo apt-get update
+```
+
+3. Install Atom
+
+```
+sudo apt-get install atom
+```
