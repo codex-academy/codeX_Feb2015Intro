@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![pe-triangle](https://cloud.githubusercontent.com/assets/1239497/10168675/219964f6-66ce-11e5-96e8-a8ba3d001aff.png)
 
 The structure of every web page looks a bit like this. It's a triangle because the balance should mostly be like that: lots of HTML, quite a lot of CSS, and as little JavaScript as possible.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Debugging and tools
 
 
@@ -50,4 +54,4 @@ Let's try some things:
 * In the body of the tag you just created type 'Hello, world!'
 
 Now that you're more familiar with the tool set, you're ready to write some code.
-[Get going!](lets_code.md)
+[Get going!](http://taxi.projectcodex.co/)

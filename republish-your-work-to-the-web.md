@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Republish your work to the web
 
 Look at your `gh-pages` branch. Does it have your work from tasks 4, 5, and 6? How can you check this?

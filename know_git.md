@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Git - Version Control
 
 As a software developer you will be writing code not only on your own, but with other team members. You will need some way of keeping track of what you have done, and what your teammates have done.

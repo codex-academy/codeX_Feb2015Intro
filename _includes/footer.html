@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <nav class="main-nav" id="menu">
+    <ol>
+      <li{% if page.url == '/index.html' %} class="active"{% endif %}>
+        <a href="./index.html">codeX Setup Intro</a>
+      </li>
+      <li{% if page.url == '/command_line.html' %} class="active"{% endif %}>
+        <a href="./command_line.html">Mastering the command line</a>
+      </li>
+      <li{% if page.url == '/software_to_install.html' %} class="active"{% endif %}>
+        <a href="./software_to_install.html">Some software to install</a>
+      </li>
+      <li{% if page.url == '/know_git.html' %} class="active"{% endif %}>
+        <a href="./know_git.html">Version control with Git</a>
+      </li>
+      <li{% if page.url == '/debug_tools.html' %} class="active"{% endif %}>
+        <a href="./debug_tools.html">Debugging &amp; Tools</a>
+      </li>
+      <li>
+        <a href="http://taxi.projectcodex.co">Let's code!</a>
+      </li>
+    </ol>
+  </nav>
+</footer>

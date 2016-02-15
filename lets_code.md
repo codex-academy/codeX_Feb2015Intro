@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Let's code!
 
 Now we are going to write some code outside of Codecademy.
