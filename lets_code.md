@@ -6,6 +6,7 @@ layout: default
 
 Now we are going to write some code outside of Codecademy.
 
+<!--codex ignore easily-->
 You should have a projects folder in your home directory, it's good practice to create all your different projects in one place on your PC that you can find easily.
 
 In your projects folder:
@@ -41,7 +42,7 @@ After each task remember to commit your changes using git.
 
 We'll be making some web pages with HTML, CSS, and JavaScript. Have a quick look at [the web triangle](the-web-triangle.md) for some information about the structure of web pages.
 
-Your first task is to create red and green blocks using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having just one square changing colours.
+Your first task is to create red and green blocks using HTML and CSS, and push your work to GitHub. For task 2 you'll write some JavaScript to colour the squares when you click buttons. For task 3, you'll build on that by using two buttons and having one square changing colours.
 
 * Task 1: [create red and green blocks](t1-create-red-and-green-blocks.md)
 * Task 2: [colour the block](t2-colour-the-blocks.md)
@@ -49,6 +50,7 @@ Your first task is to create red and green blocks using HTML and CSS, and push y
 
 ### Short break from the JavaScript
 
+<!--codex ignore easily-->
 Let's [publish your code to a website](publish-your-code-to-a-website.md) using GitHub Pages, so that you can easily demo your work.
 
 Add a file called `index.html`. Inside it, make a list of links to the pages you made from task 1, 2, and 3. Add some CSS to make it look more interesting. You might want to look at [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style) and  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type). In `task1.html`, `task2.html`, and `task3.html` add a (hyper)link back to `index.html`.

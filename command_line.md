@@ -13,7 +13,7 @@ Open a terminal window and let's try out a few commands.
 * type `pwd` then press enter - what does it do?
 * type `ls` then press enter - what does it do?
 * type `mkdir the_terminal` then press enter - what does it do?
-* type `ls` then press enter - to see what you just did?
+* type `ls` then press enter - what does it do?
 * type `cd the_terminal` then press enter
 * now try `pwd` & `ls` again
 * you can use the `touch` command to create a new file in the folder you created.
