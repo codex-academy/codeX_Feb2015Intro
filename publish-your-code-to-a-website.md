@@ -35,7 +35,7 @@ Any commits you make now will be on the `gh-pages` branch (and won't show up on 
 
 ## Publishing using GitHub Pages
 
-To push this branch to github type:
+To push this branch to GitHub type:
 
 ```
 git push origin gh-pages

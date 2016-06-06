@@ -8,7 +8,7 @@ layout: default
 
 As you already know, the command line allows us to run programs to complete some tasks. One of those tasks is installing new software on your computer.
 
-Ubuntu has a package manager called `apt-get` which allows you to easily install software on a server or PC. 'Package' refers to all the files in the program you install on the computer.
+Ubuntu has a package manager called `apt-get` which allows you to install software on a server or PC. 'Package' refers to all the files in the program you install on the computer.
 
 In a terminal window on Ubuntu type `apt-get` and press enter. What do you see?
 
