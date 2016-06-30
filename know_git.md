@@ -24,7 +24,14 @@ To get a quick introduction to GitHub, do the online tutorial [Try GitHub](https
 Once you have a better idea of what git is all about, try it on your local machine by following the instructions at [Git It](https://github.com/jlord/git-it). The steps there will show you how to get code from GitHub to your machine, how to update code using git, and many other things.
 
 <!--codex ignore refer back-->
-Now you should know a lot more about version control using `git`. Should you ever have any questions you can refer back to the info on this page, as well as the useful Git It guide... or there is always Google!
+Now you should know a lot more about version control using `git`. You'll always follow the same cycle for updating your code:
+
+  * Make changes to your file(s);
+  * `git add` the changed files;
+  * `git commit` the changes, with a message;
+  * `git push` the commited changes from your machine to GitHub.
+
+Should you ever have any questions you can refer back to the info on this page, as well as the useful Git It guide... or there is always Google!
 
 ### SSH Key
 
