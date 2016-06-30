@@ -1,18 +1,17 @@
 ---
 layout: default
-unitstandard: 115362-SO1-AC1, 115362-SO2-AC1
+unitstandard: 115362-SO1-AC1, 115362-SO2-AC1, 115362-SO2-AC3
 ---
 
 ## Git - Version Control
 
-As a software developer you will be writing code not only on your own, but with other team members. You will need some way of keeping track of what you have done, and what your teammates have done.
+As a software developer you will be writing code not only on your own, but with other team members. You will need some way of keeping track of what you have done, and what your teammates have done, and making sure that you don't overwrite each other's changes.
 
 Have you ever lost your changes in a Word document or text file, because you lost the USB Drive or because you saved over a file by accident? These are the kind of things that might start happening as you start to write code.
 
-Luckily there's a category of tools called Version Control Software which allow you to manage the files that you create and change everyday as a software developer.
-You can manage your own files, share your files and changes with your colleagues, and even share them other people on the internet.
+Luckily there's a category of tools called VCS (Version Control Software) which allows you to manage the files that you create and change everyday as a software developer. You can manage your own files, share your files and changes with your colleagues, and even share them other people on the internet.
 
-* The Version Control Software we will be using is called git. This program will run on your laptop.
+* The Version Control Software we will be using is called git. This program will run on your laptop. Git is a distributed VCS. That means that everyone working on the code keeps a copy of it on their own machine. There's often a copy in a central, shared, location too.
   * Create a new folder called `Projects` in your home directory, using the terminal. Each new project you start should live in its own directory inside of your `Projects` folder. In git terminology, the code for each project is called a repository.
 * [GitHub](http://github.com) is the site where you will publish and share your code on the web. Your code will live at `http://github.com/<your-github-user-name>/<your-repository-name>`.
 
