@@ -1,6 +1,6 @@
 ---
 layout: default
-unitstandard: 115362-SO1-AC1
+unitstandard: 115362-SO1-AC1, 115362-SO2-AC1
 ---
 
 ## Git - Version Control
@@ -22,7 +22,7 @@ You will get to know git and GitHub well in the next few months!
 
 To get a quick introduction to GitHub, do the online tutorial [Try GitHub](https://try.github.io).
 
-Once you have a better idea of what git is all about, try it on your local machine by following the instructions at [Git It](https://github.com/jlord/git-it)
+Once you have a better idea of what git is all about, try it on your local machine by following the instructions at [Git It](https://github.com/jlord/git-it). The steps there will show you how to get code from GitHub to your machine, how to update code using git, and many other things.
 
 <!--codex ignore refer back-->
 Now you should know a lot more about version control using `git`. Should you ever have any questions you can refer back to the info on this page, as well as the useful Git It guide... or there is always Google!
