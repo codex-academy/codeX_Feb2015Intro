@@ -1,5 +1,6 @@
 ---
 layout: default
+unitstandard: 115362-SO1-AC1
 ---
 
 ## Git - Version Control
@@ -12,7 +13,8 @@ Luckily there's a category of tools called Version Control Software which allow 
 You can manage your own files, share your files and changes with your colleagues, and even share them other people on the internet.
 
 * The Version Control Software we will be using is called git. This program will run on your laptop.
-* [GitHub](http://github.com) is the site where you will publish and share your code on the web.
+  * Create a new folder called `Projects` in your home directory, using the terminal. Each new project you start should live in its own directory inside of your `Projects` folder. In git terminology, the code for each project is called a repository.
+* [GitHub](http://github.com) is the site where you will publish and share your code on the web. Your code will live at `http://github.com/<your-github-user-name>/<your-repository-name>`.
 
 You will get to know git and GitHub well in the next few months!
 
