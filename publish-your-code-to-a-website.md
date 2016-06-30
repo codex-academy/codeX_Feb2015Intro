@@ -1,5 +1,6 @@
 ---
 layout: default
+unitstandard: 115388-SO2-AC2
 ---
 
 ## Publish your code to a website
@@ -32,6 +33,8 @@ git checkout gh-pages
 ```
 
 Any commits you make now will be on the `gh-pages` branch (and won't show up on `master`). You'll be using this branch to publish the work you are doing to [GitHub Pages](https://pages.github.com/).
+
+A branch is a copy of your code. It allows you make updates without worrying about messing up the main codebase which is on another branch. The main branch is usually called `master`.
 
 ## Publishing using GitHub Pages
 
