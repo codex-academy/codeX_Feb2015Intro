@@ -1,6 +1,6 @@
 ---
 layout: default
-unitstandard: 115362-SO1-AC1, 115362-SO2-AC1, 115362-SO2-AC3
+unitstandard: 115362-SO1-AC1, 115362-SO1-AC2, 115362-SO2-AC1, 115362-SO2-AC3
 ---
 
 ## Git - Version Control
