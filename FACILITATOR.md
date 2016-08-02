@@ -2,9 +2,9 @@
 unitstandard: 115362-SO1-AC1
 ---
 
-# Assessments
+# Facilitator notes
 
-## Formative assessment 1 (115362-SO1-AC1)
+## Know git
 
 The main learning outcomes are:
 
