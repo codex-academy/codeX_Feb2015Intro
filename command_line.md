@@ -26,6 +26,8 @@ Open a terminal window and let's try out a few commands.
 
 Congratulations! You are now well on your way on mastering the command line.
 
-Now hop over [Linux Survival](http://linuxsurvival.com), and complete the Modules 1 & 2.
+Head over too [Linux Survival](http://linuxsurvival.com/linux-tutorial-introduction/), and complete the Modules 1 & 2 now.
 
-Complete Module 3 & 4 in your own time later. This will help you deepen your knowledge of the command line.
+Complete Module 3 & 4 later. This will help you deepen your knowledge of the command line.
+
+You can also do this Codecademy [command line course](https://www.codecademy.com/learn/learn-the-command-line).

@@ -10,9 +10,11 @@ layout: default
 As you write software you will make mistakes a lot.
 
 <!--codex ignore easy-->
-Sometimes it will be easy to find a problem or bug, and sometimes you will struggle. Sometimes it will feel impossible. Relax! This is an integral part of programming. It will drive you semi-insane, but it is a skill you need to master.
+Sometimes it will be easy to find a problem or bug, and sometimes not. Sometimes it will feel impossible. Relax! This is an integral part of programming. It will drive you semi-insane, but it is a skill you need to master.
 
-A bug in software development refers to a problem. If a program has a bug it means that it has an issue which stops it from working, or it doesn't work as we expect. Finding bugs in JavaScript can sometimes be frustrating, to say the least. Luckily the Chrome web browser comes with some tools that help us find the problems in our code: Developer Tools and the JavaScript Console.
+A bug in software development refers to a problem. If a program has a bug it means that it has an issue which stops it from working, or it doesn't work as we expect.
+
+Finding bugs in JavaScript can sometimes be frustrating, to say the least. Luckily the Chrome web browser comes with some tools that help us find the problems in our code: `Developer Tools and the JavaScript Console`.
 
 To access them:
 
@@ -56,4 +58,3 @@ Let's try some things:
 * In the body of the tag you just created type 'Hello, world!'
 
 Now that you're more familiar with the tool set, you're ready to write some code.
-[Get going!](http://taxi.projectcodex.co/)
