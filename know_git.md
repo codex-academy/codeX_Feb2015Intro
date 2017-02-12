@@ -11,8 +11,9 @@ Have you ever lost your changes in a Word document or text file, because you los
 
 Luckily there's a category of tools called VCS (Version Control Software) which allows you to manage the files that you create and change everyday as a software developer. You can manage your own files, share your files and changes with your colleagues, and even share them other people on the internet.
 
-* The Version Control Software we will be using is called git. This program will run on your laptop. Git is a distributed VCS. That means that everyone working on the code keeps a copy of it on their own machine. There's often a copy in a central, shared, location too.
-  * Create a new folder called `Projects` in your home directory, using the terminal. Each new project you start should live in its own directory inside of your `Projects` folder. In git terminology, the code for each project is called a repository.
+* The Version Control Software we will be using is called git. This program will run on your laptop. Git is a distributed  Version Control System(VCS). That means that everyone working on the code keeps a copy of it on their own machine. There's often a copy in a central, shared, location too.
+
+* Create a new folder called `projects` in your home directory, using the terminal. Each new project you start should be created in its own directory inside of your `projects` folder. In git terminology, the code for each project is called a repository.
 * [GitHub](http://github.com) is the site where you will publish and share your code on the web. Your code will live at `http://github.com/<your-github-user-name>/<your-repository-name>`.
 
 You will get to know git and GitHub well in the next few months!

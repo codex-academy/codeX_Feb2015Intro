@@ -61,8 +61,8 @@ Work your way through each of these exercises: they're challenging but rewarding
 
 So far most of the code you have written might have been inside of a browser. That's about to change!
 
-In reality most software is written in text editors or using a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Atom](https://atom.io/).
+In reality most software is written in text editors or using a more advanced text editor called an Integrated Development Environment (or IDE for short). We will use a text editor called [Atom](editor.html).
 
 * Learn how to find problems in your code by using [Debugging tools](debug_tools.html)
 
-* Now start to [do some coding ](http://frontend_basics.projectcodex.co), but ask the mentors for an Introduction to Front End programming before you proceed.
+* Now start to [do some coding ](http://frontend-basics.projectcodex.co), but ask the mentors for an Introduction to Front End programming before you proceed.

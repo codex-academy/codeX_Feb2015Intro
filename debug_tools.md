@@ -32,29 +32,3 @@ These will allow you to do various useful things such as:
 * Add a breakpoint in JavaScript source code
 
 These are a few of the things you can do in Chrome's DevTools. Other browsers have similar capabilities, but sometimes you need to install a plugin. In Firefox you can install the excellent Firebug plugin to get developer support.
-
-### Text Editor
-
-[Atom](https://atom.io/) is a text editor with lots of nice features which make your life as a developer much easier. (Another popular editor is [Sublime Text](http://www.sublimetext.com/). It's free to download and try, but you need to buy a license for continued use.)
-
-A few of those features include:
-
-* Basic code completion, based on content in your file
-* Syntax highlighting
-* HTML tag completion
-* HTML file basic templates
-
-Let's try some things:
-
-<!--codex ignore easy-->
-* Create a file called index.html, and open it in your text editor
-* At the first line in the file type `html`
-* Press `tab`
-* What happened?
-* Save the file
-* In the body tag type `h1`
-* Press `tab` again
-* What happened?
-* In the body of the tag you just created type 'Hello, world!'
-
-Now that you're more familiar with the tool set, you're ready to write some code.
